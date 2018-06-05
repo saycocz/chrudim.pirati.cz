@@ -1,54 +1,69 @@
 ---
-layout: eu
-wide: true
-category: program
-title: 
-
+layout: default
+rbar: cal, people, video
 ---
 
-</br>
-{% include news_bar.html %}
-
-<hr>
-<h4>Aktuality</h4>
-<!--{% assign posts = (site.posts | where: "category", "aktuality" | sort: 'date') %}-->
-
-{% assign modulo = 0 %}
-
-{% for post in site.categories.aktuality reverse %}
-
-{% if modulo == 0 or forloop.first %}
-  <div class="row blog">
-{% endif %}
-
-<div class="medium-6 columns{% if forloop.last and modulo == '0' %} end{% endif %}">
-{% if post.image %} <img src="{{ post.image }}" width="200" height="115"/> {% else %} {{ <img src="/assets/images/aktuality/default.png" width="400" height="229"/> }} {% endif %}
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-{% if post.autor %} <span class="radius label">{{ post.autor}}</span> {% endif %}
-{% if post.date %}  <span class="radius secondary label">{{ post.date | date: "%d.%m.%Y" }}</span> {% endif %}
-
-
-{% if post.excerpt %}{{ post.excerpt | truncatewords: 15 }}
-
-{% else %} 
-
-{{ post.content | strip_html | truncatewords: 15 }}
-<a href="{{ post.url }}">pokračování</a>.
-</br>
-
-{% endif %}
-
-<br></br> 
-</div>
-
-{% if modulo == 1 or forloop.last %}
+{% include title/title_header.html %}
+<div class="row">
+  <div class="medium-12 large-8 columns">
+    <section class="o-section o-section--spaceBot">
+      <div class="o-section-inner o-section-inner--leftBlock">
+        <header class="o-section-header">
+          <h1 class="o-section__heading">Aktuální témata</h1>
+        </header>
+        {% for article in site.posts limit: 6 %}
+        <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting-excerpt" itemscope="">
+          <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+          <div class="c-BlogPosting-excerpt-contentWrapper u-cf">
+            <div class="c-BlogPosting-excerpt-photoBox">
+              <!-- BlogPosting image -->
+              <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting-excerpt__image" itemscope="">
+                <a href="{{article.url | relative_url}}">
+                  <img src="{{ article.image | relative_url }}" alt="{{article.title}}">
+                </a>
+                <meta itemprop="url" content="{{ article.image | relative_url }}">
+                <meta itemprop="width" content="">
+                <meta itemprop="height" content=""> </div>
+            </div>
+            <div class="c-BlogPosting-excerpt-contentBox">
+              <!-- Headline -->
+              <h2 itemprop="headline" class="c-BlogPosting-excerpt__title">
+                <a href="{{article.url | relative_url}}" itemprop="url">{{article.title}}</a>
+              </h2>
+              <!-- BlogPosting description-->
+              <div itemprop="description" class="c-BlogPosting-excerpt-content">{{ article.excerpt | truncatewords: 33 | strip_html }} </div>
+              <a href="{{article.url | relative_url }}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+            </div>
+            <!-- Publisher -->
+            <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
+              <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+                <meta itemprop="url" content="{{ 'assets/img/brand/logo.svg' | relative_url }}"> </div>
+              <meta itemprop="name" content="Česká pirátská strana"> </div>
+          </div>
+          <div class="c-BlogPosting-excerpt-infoBox">
+            <!-- Date published -->
+            <span itemprop="description" class="c-BlogPosting-excerpt__datePublished">
+              <i class="fa fa-calendar-o" aria-hidden="true"></i> {{article.date | date: "%d.%m.%Y"}}
+              <meta itemprop="datePublished" content="{{article.date | date_to_xmlschema }}">
+              <meta itemprop="dateModified" content=""> </span>
+            <br class="hide-for-medium">
+            <!-- Authors -->
+            <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting-excerpt__authors" itemscope="">
+              <i class="fa fa-user" aria-hidden="true"></i>
+              <span itemprop="name" class="c-BlogPosting-excerpt__author">{{ article.author }}</span>
+              <br class="hide-for-medium"> </span>
+          </div>
+        </article>
+        {% endfor %}
+        <div class="c-BlogPosting-excerpt-nextBox">
+          <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
+        </div>
+      </div>
+    </section>
   </div>
-{% endif %}
-
-{% if modulo == 0 %}
-  {% assign modulo = 1 %}
-{% else %}
-  {% assign modulo = 0 %}
-{% endif %}
-
-{% endfor %}
+  {% if page.rbar %}
+  <div class="medium-12 large-4 columns">
+    {% include right-bar/rbar.html param='rbar' %}
+  </div>
+  {% endif %}
+</div>
