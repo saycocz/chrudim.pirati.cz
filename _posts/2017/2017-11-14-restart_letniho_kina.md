@@ -5,7 +5,7 @@ title: Restart letního kina - Chrudim
 date: 2017-11-12Ti11:31:00+01:00  
 tags: Chrudim letni-kino
 author: Piráti Chrudim
-image: assets/img/articles/2017/letni_kino_chrudim.jpg   #751x422 pixelu
+image: assets/img/posts/2017/letni_kino_chrudim.jpg   #751x422 pixelu
 ---
 
 Je vidět, že zachování letního kina a ne jeho zbourání je na pořadu dne. Pro některé občany Chrudimi obávaná verze – totiž, že na místě letního kina budou parkovací místa, ovšem nadále visí ve vzduchu. Nebo alespoň na jeho části.
