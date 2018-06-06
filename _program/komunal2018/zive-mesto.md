@@ -24,8 +24,6 @@ Smart-City nevnímáme jenom jako moderní pojem, který by bylo dobré prodat, 
 - Město by mělo vyžadovat aplikace založené na otevřeném kódu, aby nebylo vázané na konkrétního dodavatele bez možnosti snadného odstoupení od smlouvy. 
 - Dlouhodobý cíl je využívat zejména otevřené programy, včetně operačních systémů. 
 
-   
-
 ### Jednotný informační systém města
 
 - Zlepšíme toky informací. Máme za to, že vzájemná informovanost obyvatel, organizací a firem ve městě má přímý vliv na jeho dobré fungování a rozvoj. I proto budeme usilovat o vznik Jednotného informačního systému města, který kromě webové prezentace bude poskytovat i data otevřená a strojově čitelná. 
