@@ -7,8 +7,6 @@ perex:
 order: 7
 ---
 
-### ...kulturní, sportovní a turistické centrum
-
 Kulturní a sportovní vyžití patří k zdravému a prosperujícímu městu plnému inteligentních lidí. Široká nabídka různých kulturních, sportovních a dalších volnočasových aktivit přitahuje do města návštěvníky z širokého okolí, nezřídka i ze zahraničí, omezuje vznik patologických jevů ve společnosti a pomáhá utvářet duch pospolitosti a vzájemného respektu. Podporujeme občanskou iniciativu a vytvoříme podmínky pro rozmanitost kulturního i sportovního života v Chrudimi.
 
 
