@@ -5,7 +5,7 @@ title: Otevření Pirátského centra CPICE
 date: 2016-05-1T10:44:00+02:00
 tags: CPICE 
 author: Piráti Chrudim
-image: assets/img/articles/2016/chrudim.jpg
+image: assets/img/posts/2016/chrudim.jpg
 ---
 
 Česká Pirátská Strana - Krajské sdružení Pardubice otevírá v Chrudimi své centrum.  

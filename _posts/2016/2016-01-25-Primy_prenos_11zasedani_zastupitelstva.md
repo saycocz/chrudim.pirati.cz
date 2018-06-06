@@ -5,7 +5,7 @@ title: Přímý přenos 11. zasedání zastupitelstva města Chrudim
 date: 2016-01-25T10:44:00+02:00  
 tags: zastupitelstvo 
 author: Piráti Chrudim
-image: assets/img/articles/2016/chrudim.jpg
+image: assets/img/posts/2016/chrudim.jpg
 ---
 
 Dne 25.1.2016 od 16:00 se uskuteční 11. zasedání zastupitelstva města Chrudim.
