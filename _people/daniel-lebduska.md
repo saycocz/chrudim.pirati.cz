@@ -7,6 +7,7 @@ category:                               # kategorie: rp, praha, vary, hradec, jm
 - kandidat-chrudim-2018
 img: people/daniel-lebduska.jpg           # 165 x 220
 description: člen Pirátské strany, volební manažer pro Chrudim # kratký popis, max 160 znaků
+candidatedesc: Marketingový manažer
 ordpak: 2
 ordkomunal2018: 2
 mail:

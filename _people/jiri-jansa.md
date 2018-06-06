@@ -8,7 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-chrudim-2018
 img: people/jiri-jansa.jpg           # 165 x 220
 description: předseda krajského sdružení Pardubického kraje			# kratký popis, max 160 znaků
-ordpak: 6 
+ordpak: 
 ordkomunal2018: 10
 mail:
 - jiri.jansa@pirati.cz

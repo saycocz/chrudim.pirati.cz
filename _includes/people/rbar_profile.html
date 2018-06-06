@@ -13,8 +13,11 @@
       <img src="{{ person.img | prepend: '/assets/img/' | relative_url }}" alt="{{person.name}}" style="width: 92px">
       <meta itemprop="url" content="{{ person.img | prepend: '/assets/img/' | relative_url }}"> </div>
     <!-- Person description -->
+    {% if include.param2 == 'candidate' %}
+       <p itemprop="description" class="c-Person-preview-content">{{person.candidatedesc}}
+    {% else %}
     <p itemprop="description" class="c-Person-preview-content">{{person.description}}</p>
-
+    {% endif %}
   </div>
 {% if include.param == 'contacts' %}
 <div class="clear">

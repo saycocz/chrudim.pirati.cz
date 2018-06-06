@@ -22,7 +22,7 @@
       {% if item.mob or item.mail %}
       <p>
         {{item.mob}}<br>
-        <a href="mailto:{{item.mail | first}}">{{item.mail | first}}</a><br>
+        <i class="fa fa-envelope-open-o"></i> <a href="mailto:{{item.mail | first}}">{{item.mail | first}}</a><br>
       </p>
       {% endif %}
       {% endif %}

@@ -8,7 +8,8 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-chrudim-2018
 img: people/zdenek-kubala.jpg           # 165 x 220
 description: 1. místopředseda KS Pardubický kraj, zástupce vedoucího technického odboru # kratký popis, max 160 znaků
-ordpak: 4
+candidatedesc: Softwarový inženýr(Linux), IT konzultant 
+ordpak: 
 ordkomunal2018: 4
 mail:
 - zdenek.kubala@pirati.cz
