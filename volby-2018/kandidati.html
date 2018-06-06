@@ -1,0 +1,38 @@
+---
+layout: default
+img:
+title: Kandidátní listiny Pirátů pro komunální volby 2018
+---
+
+{% include submenu.html %}
+
+<div class="row o-section-block o-section-block--divided">
+    <div class="medium-12 large-12 columns">
+        <section class="o-section">
+            <div class="o-section-inner">
+                <main class="o-section-block">
+                    <div class="c-BasicPage">
+                        <div class="c-BasicPage-content">
+		<section class="o-section o-section--spaceBot">
+			<div class="o-section-inner o-section-inner--leftBlock">
+				<header class="o-section-header">
+					<h1 class="o-section__heading text-center"> Kandidátní listina pro komunální volby v Chrudimi 2018</h1>
+				</header>
+			</div>
+		</section>
+				
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'pak'" | sort:"ordpak" %}
+                                        {% include people/list-2col.html param=team %}
+					{% if team == null %}<br>Zatím žádný zástupce{% endif %}
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </main>
+            </div>
+        </section>
+  </div>
+</div>
+
+

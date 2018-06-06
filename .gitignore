@@ -1,8 +1,3 @@
-### Jekyll template
-_site/
-debug/
-build/
-.idea
-*~
-_trash/
-.sass-cache/
+_site
+.sass-cache
+.jekyll-metadata
