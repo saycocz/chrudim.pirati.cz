@@ -7,7 +7,7 @@ tags:
     - Komunalni-volby
 author: Piráti Chrudim
 
-image: assets/img/articles/2018/.png #751x422
+image: assets/img/posts/2018/baner_web_chrudim_2018.png #751x422
 ---
 
 ## Dobydou napotřetí Piráti chrudimské zastupitelstvo? „Věříme si,“ říká lídr chrudimských Pirátů Pavel Štěpánek

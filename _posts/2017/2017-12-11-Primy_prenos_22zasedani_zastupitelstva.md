@@ -5,7 +5,7 @@ title: Přímý přenos 22. zasedání zastupitelstva města Chrudim
 date: 2017-12-11T14:44:00+01:00  
 tags: Chrudim zastupitelstvo 
 author: Piráti Chrudim
-image: assets/img/articles/2016/chrudim.jpg
+image: assets/img/posts/2016/chrudim.jpg
 ---
 
 Dne _11.12.2017_ od _16:00_ se uskuteční 22. zasedání zastupitelstva města Chrudim.
