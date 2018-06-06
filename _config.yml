@@ -17,7 +17,7 @@ title: Piráti Chrudim
 email: zdenek.kubala@pirati.cz
 description: # this means to ignore newlines until "baseurl:"
             Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
-        Web Pirátů v Chrudimi
+            Web Pirátů v Chrudimi
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chrudim.pirati.cz" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -54,7 +54,7 @@ collections:
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /program/:path/
+    permalink: /volby-2018/program/:title/
   teams:
     output: true
     permalink: /pripoj-se/:title/
@@ -71,7 +71,7 @@ defaults:   # defaults values for collection scope
       rbar: "people, foto"
   -
     scope:
-      path: "_program"
+      path: "_program/komunal2018"
     values:
       layout: "page"
       rbar: "program"

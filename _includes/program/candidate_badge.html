@@ -1,7 +1,3 @@
-{% capture candidate_name %}
-    {% if include.candidate.name %}{{ include.candidate.name }}{% else %}{{ include.candidate.title }}{% endif %}
-{% endcapture %}
-
 <div class="c-program-candidate-badge {% if include.leader %}c-program-candidate-badge--leader{% endif %}">
     <div class="c-program-candidate-badge__body">
         <div class="c-program-candidate-badge__avatar">
