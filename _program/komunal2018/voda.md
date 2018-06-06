@@ -9,12 +9,9 @@ order: 8
 
 ### ...mít v rukách vlastní vodu
 
-    
-
 Proč město Chrudim prodalo v roce 2005 svou vodu, když městská firma neprodělávala? Podle výročních zpráv společnosti Vodohospodářské služby Chrudim a.s., které je majoritním, 95% vlastníkem společnosti dceřinná firma rakouské firmy Energy AG získává zahraniční koncern na dividendách průměrně kolem 15-20 milionů korun ročně.  Tento zisk tak odtéká do Rakouska. Pojďme vrátit chrudimskou vodu zpět do rukou občanů a snížit cenu vody. 
 
-  
-
+ 
 - smlouva je uzavřena do konce roku 2030 - pojďme už nyní připravit možnosti, jak se z ní vyvázat a dostat chrudimskou vodu zpět plně do rukou měst a obcí v chrudimském okrese 
 
 - Celkové propočtené snížení ceny vody může být až o 20% - tedy ze současných 79Kč za m3 na 63Kč za m3 
