@@ -26,7 +26,7 @@ Charakter města vytváří nejen jeho podoba a velikost, ale především lidé
 - Budeme nadále podporovat aktivity neziskového sektoru, vedoucí k zlepšování kulturního a sportovního dění ve městě, jako je například snaha o zachování letního kina. Důraz budeme klást na akce nezapadající do hlavního proudu, které podněcují k rozmanitosti a barevnosti společnosti.  
 - Zapojíme do kulturního a sportovního dění menšiny. Baví nás lidi spojovat a bořit předsudky. 
 
-#### Něco navíc
+### Něco navíc
 
 - V rámci propojení generací sympatizujeme s projekty, kde dochází ke spolupráci seniorů a dětí ve školkách, školách. A to jak státních tak soukromých, alternativních. 
 
