@@ -1,6 +1,6 @@
 ---
 uid: voda
-garant: Dan Lebduška
+garant: Daniel Lebduška
 title: voda
 img: voda.svg
 perex:
