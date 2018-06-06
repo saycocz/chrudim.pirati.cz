@@ -7,8 +7,6 @@ perex:
 order: 2
 ---
 
-### ...symbol otevřenosti a transparence
-
 Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají a kontrolovat hospodaření města. Město se musí snažit jim jít naproti a být otevřené a transparentní. Aktivní zapojení lidí do správy jejich města umožní dělat kvalitnější rozhodnutí a omezit plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží. Zprůhlednění hospodaření města a boj s korupcí je naší velkou prioritou.
 
 
