@@ -18,7 +18,7 @@ Kulturní a sportovní vyžití patří k zdravému a prosperujícímu městu pl
 
 - Dotační peníze musí být rozdělovány spravedlivě. Zprůhledníme rozhodování komisí rady, nastavíme mechanismy proti střetu zájmu a zlepšíme zpětnou vazbu směrem k žadatelům o dotace tak, aby bylo jasné z jakého důvodu jim byla žádost ponížena, případně zamítnuta.  
 
-#### Informační systém
+### Informační systém
 
 - Kromě sdíleného kalendáře kulturních a společenských akcí, bychom chtěli zavést sdílenou mapu s nápady na výlety po okolí, zajímavá místa, dobré restaurace nebo novinky z Chrudimska vztahující se ke konkrétnímu místu a podobně. Do této mapy by měl být přístup zdarma pro všechny právnické i fyzické osoby. 
 
