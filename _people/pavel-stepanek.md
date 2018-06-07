@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-chrudim-2018
 img: people/pavel-stepanek.jpg   # 165 x 220
 description: koordinátor krajského sdružení pro Pardubický kraj # kratký popis, max 160 znaků
+candidatedesc: živnostník, člen kulturní komise
 ordpak: 
 ordkomunal2018: 1
 mail:

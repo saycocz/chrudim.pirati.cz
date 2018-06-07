@@ -7,6 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-chrudim-2018
 img: people/nikola-stepankova.jpg           # 165 x 220
 description: ćlenka Pirátské strany  a sociální komise rady města Chrudim # kratký popis, max 160 znaků
+candidatedesc: kreativní ředitelka domácnosti
 ordpak: 
 ordkomunal2018: 5
 mail:
