@@ -20,8 +20,6 @@ profiles:
   linkedin:
 ---
 
-__Krajský koordinátor pro Pard. kraj__
-
 
 Do strany vstoupil v lednu 2017 a od února 2017 je Krajským volebním koordinátorem pro Pardubický kraj. 
 
