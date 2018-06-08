@@ -7,12 +7,12 @@ perex:
 order: 2
 ---
 
-Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a kontrolovat hospodaření města. Město jim musí vycházet vstříc a být otevřené a transparentní. Aktivní zapojení lidí do správy svého města umožní kvalitnější rozhodování a omezí plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží. Zprůhlednění hospodaření města a boj s korupcí je naší velkou prioritou.
+>Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a kontrolovat hospodaření města. Město jim musí vycházet vstříc a být otevřené a transparentní. Aktivní zapojení lidí do správy svého města umožní kvalitnější rozhodování a omezí plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží. Zprůhlednění hospodaření města a boj s korupcí je naší velkou prioritou.
 
 
 ### Zapojíme občany
 
-- Chceme umožnit lidem, aby se mohli aktivně podílet na správě města, protože lidé vědí nejlépe, co jejich okolí trápí. Vyčleníme část městských peněz k tzv. participativnímu rozpočtování. Lidé budou sami navrhovat projekty a rozhodovat v hlasování o rozdělení financí. Budeme usilovat o to, aby tato rozpočtová složka postupně rostla. Příkladem může být například město Brno.
+- Chceme umožnit lidem, aby se mohli aktivně podílet na správě města, protože lidé vědí nejlépe, co jejich okolí trápí. Vyčleníme část městských peněz k tzv. **participativnímu rozpočtování**. Lidé budou sami navrhovat projekty a rozhodovat v hlasování o rozdělení financí. Budeme usilovat o to, aby tato rozpočtová složka postupně rostla. Příkladem může být například město Brno.
 - Zasadíme se o to, aby za participativní projekty byl někdo přímo odpovědný, a zajistíme tak, že participace bude mít kontinuitu. V této oblasti máme bohaté zkušenosti.
 - Zapojíme děti do rozhodování o chodu jejich školy formou soutěže projektů. Přirozeně se tak budou učit, co znamená být aktivním občanem.
 - Podporujeme místní referenda, průzkumy a občanská setkání. Každé velké rozhodnutí by mělo být podpořené samotnými občany a my se budeme vždy ptát na váš názor. Vše budeme plánovat tak, aby se mohl každý skutečně zúčastnit.
@@ -25,7 +25,7 @@ Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají
 ### Zprůhledníme hospodaření
 
 - Město se musí chovat způsobem řádného hospodáře a lidé musí mít právo tuto povinnost kontrolovat. Veškeré výdaje města musí být veřejně identifikovatelné, a to od rozpočtového určení až ke konkrétním smlouvám a fakturám. 
-- Za tímto účelem budeme prosazovat vývoj rozklikávacího rozpočtu, kde by bylo možné proces sledovat a v jakékoli fázi připomínkovat.
+- Za tímto účelem budeme prosazovat webovou aplikaci **rozklikávací rozpočet**, kde by bylo možné proces sledovat a v jakékoli fázi připomínkovat.
 - Informace o významných projektech města musí být veřejné ve všech fázích od záměru až po realizaci.
 - Věnujeme velkou pozornost přípravám výběrových řízení a klademe důraz na jejich transparentnost. Výsledky výběrových řízení chceme zveřejňovat včetně odmítnutých nabídek.
 - Stejný systém by měl být uplatněn v městských firmách a příspěvkových organizacích, jako jsou sportoviště města, Beseda nebo Technické služby.
