@@ -21,7 +21,7 @@ order: 1
 ### Otevřený software
 
 - Město i jeho organizace, včetně škol, školek a městských firem, by se měly zaměřit na využívání svobodného softwaru všude tam, kde je to možné.
-- Jako jednu z prvních věcí, které chceme implementovat, je podpora a zveřejnění dokumentů ve standardizovaných otevřených formátech, abychom občany nenutili kupovat drahé aplikace. 
+- Jako jednu z prvních věcí, které chceme implementovat, je podpora a zveřejnění dokumentů i ve standardizovaných otevřených formátech, abychom občany nenutili kupovat drahé aplikace. 
 - Město by mělo vyžadovat aplikace založené na otevřeném kódu, aby nebylo vázané na konkrétního dodavatele bez možnosti snadného odstoupení od smlouvy.
 - Dlouhodobý cíl je využívat zejména otevřené programy, včetně operačních systémů.
 
