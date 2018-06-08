@@ -7,7 +7,7 @@ perex:
 order: 5
 ---
 
-Charakter města vytváří nejen jeho podoba a velikost, ale především lidé, kteří v něm žijí. Sounáležitost, pospolitost a pomoc potřebným jsou základními znaky fungující společnosti. Piráti jsou přesvědčeni, že současná ekonomika vytváří dostatek zdrojů pro kvalitní život všech. Z pozice města podporujeme sociální a startovací byty, neziskové organizace, propojení občanů napříč generacemi a jejich zapojení při plánování a realizaci projektů.
+>Charakter města vytváří nejen jeho podoba a velikost, ale především lidé, kteří v něm žijí. Sounáležitost, pospolitost a pomoc potřebným jsou základními znaky fungující společnosti. Piráti jsou přesvědčeni, že současná ekonomika vytváří dostatek zdrojů pro kvalitní život všech. Z pozice města podporujeme sociální a startovací byty, neziskové organizace, propojení občanů napříč generacemi a jejich zapojení při plánování a realizaci projektů.
 
 
 ### Sociální bydlení
