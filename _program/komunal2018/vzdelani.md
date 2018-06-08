@@ -7,7 +7,7 @@ perex:
 order: 6
 ---
 
-Pirátská strana prosazuje co nejdostupnější vzdělání, které rozvíjí přirozenou tvořivost, podporuje kritické myšlení a vychovává k demokracii. Pro naši společnost je výhodné, aby každý člověk získal vzdělání, které mu umožní naplno rozvinout vlastní potenciál. Vzdělaný člověk má lepší předpoklady orientovat se v médiích, politice a životě vůbec. Usilujeme o to, aby naše školy byly inovativní, demokratické a bezpečné.
+>Pirátská strana prosazuje co nejdostupnější vzdělání, které rozvíjí přirozenou tvořivost, podporuje kritické myšlení a vychovává k demokracii. Pro naši společnost je výhodné, aby každý člověk získal vzdělání, které mu umožní naplno rozvinout vlastní potenciál. Vzdělaný člověk má lepší předpoklady orientovat se v médiích, politice a životě vůbec. Usilujeme o to, aby naše školy byly inovativní, demokratické a bezpečné.
 
 
 ### Inovativní vzdělání:
