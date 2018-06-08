@@ -7,7 +7,7 @@ perex:
 order: 7
 ---
 
-Kulturní a sportovní vyžití patří k zdravému a prosperujícímu městu plnému inteligentních lidí. Široká nabídka různých kulturních, sportovních a dalších volnočasových aktivit přitahuje do města návštěvníky z širokého okolí, nezřídka i ze zahraničí, omezuje vznik patologických jevů ve společnosti a pomáhá utvářet ducha pospolitosti a vzájemného respektu. Podporujeme občanskou iniciativu a vytvoříme podmínky pro rozmanitost kulturního i sportovního života v Chrudimi.
+>Kulturní a sportovní vyžití patří k zdravému a prosperujícímu městu plnému inteligentních lidí. Široká nabídka různých kulturních, sportovních a dalších volnočasových aktivit přitahuje do města návštěvníky z širokého okolí, nezřídka i ze zahraničí, omezuje vznik patologických jevů ve společnosti a pomáhá utvářet ducha pospolitosti a vzájemného respektu. Podporujeme občanskou iniciativu a vytvoříme podmínky pro rozmanitost kulturního i sportovního života v Chrudimi.
 
 
 ### Rozdělování dotací
