@@ -7,8 +7,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
 - kandidat-chrudim-2018
 img: people/pavel-stepanek.jpg   # 165 x 220
-description: koordinátor krajského sdružení pro Pardubický kraj # kratký popis, max 160 znaků
-candidatedesc: živnostník, člen kulturní komise
+description: Koordinátor krajského sdružení pro Pardubický kraj, vedoucím krajského mediálního doboru Pirátů a asistent poslance # kratký popis, max 160 znaků
+candidatedesc: živnostník, člen kulturní komise rady města Chrudim
 ordpak: 
 ordkomunal2018: 1
 mail:
@@ -21,6 +21,8 @@ profiles:
   flickr:     		  
 ---
 
-Pavel Štěpánek (* 24. září 1985, Chrudim) je koordinátor krajského sdružení Pardubického kraje. Vystudoval obor veřejné správy. Pracoval v několika zaměstnáních, kde se věnoval převážně mládeži. Byl streetworker, instruktor snowboardingu a adrenalinových aktivit nebo nízkoprahových zařízeních. V současnosti pracuje „na volné noze“, tedy jako živnostník ve více oblastech.
+Pavel Štěpánek (* 24. září 1985, Chrudim) je živnostník, koordinátor krajského sdružení Pardubického kraje, vedoucím krajského mediálního doboru Pirátů a asistent poslance. Je členem kulturní komise rady města Chrudim. 
 
-Angažuje se v aktivitách souvisejících s kulturou nebo se sociální prací. Jeho zájmy jsou především adrenalinový sport, hudba nebo filosofie a otázka lidské svobody a udržitelného rozvoje.
+Vystudoval obor veřejné správy. Pracoval v několika oborech, kde se věnoval převážně mládeži. Byl streetworker, instruktor snowboardingu a adrenalinových aktivit nebo pracovník nízkoprahových zařízeních. Své zkušenosti sbíral i v kamenickém řemesle. Je zdatným barmanem a baristou. V současnosti pracuje „na volné noze“, tedy jako živnostník ve více oblastech, především služeb a obchodu. 
+
+Angažuje se v aktivitách souvisejících s kulturou nebo se sociální prací. Organizuje festivaly VyOsení. Jeho zájmy jsou především adrenalinový sport, hudba nebo filosofie a otázka lidské svobody a udržitelného rozvoje.
