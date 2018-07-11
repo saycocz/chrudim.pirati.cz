@@ -8,7 +8,7 @@ tags:
     - inteligentní-město
 author: Pavel Štěpánek
 
-image: assets/img/posts/2018/smar-city.png #751x422
+image: assets/img/posts/2018/smart-city.png #751x422
 ---
 
 **Žijeme v neustále se rozvíjející době. Vývoj a věda jdou, i díky moderní výpočetní technice, nezadržitelně dopředu a Chrudim by se měla snažit neztratit s tímto trendem krok a myslet odvážně a do budoucnosti. Svět kolem nás vstupuje do éry digitalizace a internetu věcí. Na internet lze dnes připojit například stožáry pouličního osvětlení, parkovací senzory, semafory nebo bezpečnostní kamery. Zařízení spolu navzájem komunikují, šetří energii, životní prostředí i čas lidem ve městě. Tomuto konceptu říkáme Smart-City, což by se dalo přeložit jako chytré nebo inteligentní město. Jde tedy o zavádění digitálních, informačních a komunikačních technologií do fungování města a efektivní využívání stávajících a o hledání nových zdrojů energie za účelem zvyšování kvality života, snižování nákladů a ekologických zátěží, optimalizaci dopravy a nebo sdílení dat pro veřejné účely.**
