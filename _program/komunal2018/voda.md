@@ -7,7 +7,7 @@ perex:
 order: 8
 ---
 
->Proč město Chrudim prodalo v roce 2005 svou vodu, když městská firma neprodělávala? Podle výročních zpráv společnosti Vodohospodářské služby Chrudim a.s., jejímž majoritním (95%) vlastníkem je dceřiná firma rakouské společnosti Energy AG, získává zahraniční koncern na dividendách průměrně kolem 15-20 milionů korun ročně.  Tento zisk tak odtéká do Rakouska. Pojďme vrátit chrudimskou vodu zpět do rukou občanů, a snížit tak její cenu.
+>Proč město Chrudim prodalo v roce 2005 svou vodu, když městská firma neprodělávala? Podle výročních zpráv společnosti Vodárenské služby Chrudim a.s., jejímž majoritním (95%) vlastníkem je dceřiná firma rakouské společnosti Energy AG, získává zahraniční koncern na dividendách průměrně kolem 15-20 milionů korun ročně.  Tento zisk tak odtéká do Rakouska. Pojďme vrátit chrudimskou vodu zpět do rukou občanů, a snížit tak její cenu.
 
  
 - Smlouva je uzavřena do konce roku 2030 - pojďme už nyní připravit možnosti, jak se z ní vyvázat a dostat chrudimskou vodu zpět plně do rukou měst a obcí v chrudimském okrese.
