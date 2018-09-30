@@ -14,6 +14,7 @@ ordkomunal2018: 1
 mail:
 - pavel.stepanek@pirati.cz
 mob:			  
+age: 33
 profiles:
   github:                 
   facebook: 		  

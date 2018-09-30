@@ -14,6 +14,7 @@ ordkomunal2018: 10
 mail:
 - jiri.jansa@pirati.cz
 mob: 
+age: 33
 profiles:
   github:
   facebook: 

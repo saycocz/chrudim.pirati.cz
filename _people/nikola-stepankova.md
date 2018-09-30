@@ -13,6 +13,7 @@ ordkomunal2018: 5
 mail:
 - nikola.stepankova@pirati.cz
 mob: 
+age: 32
 profiles:
   github:
   facebook: 
