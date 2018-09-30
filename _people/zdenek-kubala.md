@@ -29,8 +29,7 @@ Vystudoval SOŠ v Hradci Králové, poté přerušil studium na Univerzitě Pard
 
 Pracovní zkušenosti nabral v několika národních i nadnárodních společnostech a to zejména v oblastech správy sítí a operačních systému, podílel se na projektech týkající se informačních systémů, infrastruktury či služeb a v neposlední řadě návrhu IT řešení preferující LINUX a open source. Aktuálně je zaměstnán jako inženýr kvality v softwarové firmě, IT konzultant na volné noze a přednáší na Open Source konferencích. 
 
-Je součástí pirátské pracovní skupiny eGoverment a kyberbezpečnost s cílem systémové digitalizace veřejné (samo)správy, posílení kyberbezpečnosti ve
-veřejných institucích a zabránění neopodstatněnému plošnému šmírování občanů.
+Je součástí pirátské pracovní skupiny eGoverment a kyberbezpečnost s cílem systémové digitalizace veřejné (samo)správy, posílení kyberbezpečnosti ve veřejných institucích a zabránění neopodstatněnému plošnému šmírování občanů.
 
 Ukázal, že přímý přenos zastupitelstva v Chrudimi je možný, snaží se o otevění a ztransparentnění městkého úřadu a efektivní diogitalizaci.
 
