@@ -13,7 +13,7 @@ ordkomunal2018: 3
 mail:
 - ales.nunvar@pirati.cz
 mob: 
-
+age: 39
 profiles:
   github: 
   facebook: 

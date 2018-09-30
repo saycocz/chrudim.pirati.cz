@@ -1,0 +1,16 @@
+<div class="small-2 columns">
+  <div class="o-media o-media--top">
+    <div class="o-media__body">
+      <h2 class="o-media__headline">
+        <p> {% if item.ordkomunal2018 < 28 %}{{item.ordkomunal2018}}.{%endif%} {% if item.name %}{{item.name}}{% else %}{{item.title}}{% endif %}</a>
+      </h2>
+      <p>{% if item.ordkomunal2018 < 28 %}{{item.prislusnost}}{%endif%} </p>
+      {% if item.mob or item.mail %}
+      <p>
+        <i class="fa fa-envelope-open-o"></i> <a href="mailto:{{item.mail | first}}">{{item.mail | first}}</a><br>
+      </p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+

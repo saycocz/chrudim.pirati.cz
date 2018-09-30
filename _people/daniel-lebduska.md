@@ -13,6 +13,7 @@ ordkomunal2018: 2
 mail:
 - daniel.lebduska@pirati.cz
 mob:
+age: 29
 profiles:
   github:
   facebook: https://www.facebook.com/lebduska.daniel

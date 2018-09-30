@@ -14,6 +14,7 @@ ordkomunal2018: 4
 mail:
 - zdenek.kubala@pirati.cz
 mob: 
+age: 32
 
 profiles:
   github: djz88

@@ -12,6 +12,8 @@
         <a href="{{url}}">{% if item.name %}{{item.name}}{% else %}{{item.title}}{% endif %}</a>
       </h2>
       <p>{{item.description}}</p>
+      {% if item.age %}<p>{{item.age}} let</p>{% endif %}
+
       {% if item.asistent %}
       <p>
         Asistent/ka: {{item.asistent.name}}<br />

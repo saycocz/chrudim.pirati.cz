@@ -7,36 +7,41 @@ title: Kandidátní listiny Pirátů pro komunální volby 2018
 {% include submenu.html %}
 
 <div class="row o-section-block o-section-block--divided">
-    <div class="medium-12 large-12 columns">
-        <section class="o-section">
-            <div class="o-section-inner">
-                <main class="o-section-block">
-                    <div class="c-BasicPage">
-                        <div class="c-BasicPage-content">
-		<section class="o-section o-section--spaceBot">
-			<div class="o-section-inner o-section-inner--leftBlock">
-				<header class="o-section-header">
-					<h1 class="o-section__heading text-center"> Kandidátní listina pro komunální volby v Chrudimi 2018</h1>
-				</header>
-			</div>
-		</section>
-				
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'pak'" | sort:"ordkomunal2018" %} 
-					
-
-                                        {% include people/list-candidates.html param=team %}
-                                    </div>
-                                </li>
-				<div class="text-center">
-				</br>
-				<p>Pozn.: Zbytek kandidátky bude představen po jejím schválení.</p>
-				</div>
-                            </ul>
-                        </div>
-                    </div>
-                </main>
+  <div class="large-12 columns">
+    <section class="o-section">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <section class="o-section o-section--spaceBot">
+                <div class="o-section-inner o-section-inner--leftBlock">
+                  <header class="o-section-header"> 
+                   <h1 class="o-section__heading text-center"> Kandidátní listina pro komunální volby v Chrudimi 2018</h1>
+                 </header>
+                </div>
+              </section>
+              {% assign team = site.people | where_exp:"item","item.categories contains 'pak'" | sort:"ordkomunal2018" %} 
+              {% include people/list-candidates.html param=team %}
+              </br>
+              <h2 class="o-section__heading text-center">_____________________________________________________</h2>
+       
+              {% assign restteam = site.data.volby-2018.kandidatka | sort:"ordkomunal2018" %}
+              {% for item in restteam %}
+                {% assign loopindex = forloop.index | modulo: 6 %}
+                {% if loopindex == 0 %}
+                  <div class="row text-left">
+                {% endif %} 
+                {% include people/restcandidatelist.html param='item' %}
+                {% if loopindex == 0 %}
+                  </div>
+                  <hr>
+                {% endif %}
+              {% endfor %}
             </div>
-        </section>
+          </div>
+        </main>
+      </div>
+    </section>
   </div>
 </div>
 
