@@ -1,105 +1,120 @@
-- jmeno: Horák David
-  vek: 27  
+- name: Horák David
+  age: 27  
   prislusnost: nestraník  
   ordkomunal2018: 7 
 
-- jmeno: Nová Barbora Ing.
-  vek: 30  
+- name: Nová Barbora Ing.
+  age: 30  
   prislusnost: nestraník 
   ordkomunal2018: 8
   
-- jmeno: Mareček Daniel Mgr.
-  vek: 31  
+- name: Mareček Daniel Mgr.
+  age: 31  
   prislusnost: nestraník 
   ordkomunal2018: 9
  
-- jmeno: Koupal Vlastimil
-  vek: 46  
+- name: Koupal Vlastimil
+  age: 46  
   prislusnost: nestraník 
   ordkomunal2018: 10
   
-- jmeno: Kudrnáčová Kristýna MgA.
-  vek: 40  
+- name: Kudrnáčová Kristýna MgA.
+  age: 40  
   prislusnost: nestraník 
   ordkomunal2018: 11
 
-- jmeno: Kadlec František
-  vek: 55  
+- name: Kadlec František
+  age: 55  
   prislusnost: nestraník  
   ordkomunal2018: 12
 
-- jmeno: Kyncl Aleš
-  vek: 42  
+- name: Kyncl Aleš
+  age: 42  
   prislusnost: nestraník
   ordkomunal2018: 13
   
-- jmeno: Němec Lukáš Ing.
-  vek: 42  
+- name: Němec Lukáš Ing.
+  age: 42  
   prislusnost: nestraník
   ordkomunal2018: 14
   
-- jmeno: Novotná Tereza MDDr.
-  vek: 33  
+- name: Novotná Tereza MDDr.
+  age: 33  
   prislusnost: nestraník
   ordkomunal2018: 15
   
-- jmeno: Drahokoupil Aleš Ing.
-  vek: 32  
+- name: Drahokoupil Aleš Ing.
+  age: 32  
   prislusnost: nestraník
   ordkomunal2018: 16
   
-- jmeno: Nunvářová Kabátová Klára RNDr.
-  vek: 31  
+- name: Nunvářová Kabátová Klára RNDr.
+  age: 31  
   prislusnost: nestraník
   ordkomunal2018: 17
   
-- jmeno: Kratochvílová Šarlota
-  vek: 24  
+- name: Kratochvílová Šarlota
+  age: 24  
   prislusnost: nestraník
   ordkomunal2018: 18
   
-- jmeno: Kopáček Jan Ing.
-  vek: 33  
+- name: Kopáček Jan Ing.
+  age: 33  
   prislusnost: nestraník
   ordkomunal2018: 19
   
-- jmeno: Boržík Petr
-  vek: 29  
+- name: Boržík Petr
+  age: 29  
   prislusnost: nestraník
   ordkomunal2018: 20
   
-- jmeno: Matějková Aneta Bc.
-  vek: 26  
+- name: Matějková Aneta Bc.
+  age: 26  
   prislusnost: nestraník
   ordkomunal2018: 21
   
-- jmeno: Štěrbová Soňa Mgr.
-  vek: 42  
+- name: Štěrbová Soňa Mgr.
+  age: 42  
   prislusnost: nestraník
   ordkomunal2018: 22
   
-- jmeno: Nunvář Martin
-  vek: 52  
+- name: Nunvář Martin
+  age: 52  
   prislusnost: nestraník
   ordkomunal2018: 23
   
-- jmeno: Lebdušková Radka Mgr. DiS.
-  vek: 47  
+- name: Lebdušková Radka Mgr. DiS.
+  age: 47  
   prislusnost: nestraník
   ordkomunal2018: 24
   
-- jmeno: Herzog Josef
-  vek: 39  
+- name: Herzog Josef
+  age: 39  
   prislusnost: nestraník
   ordkomunal2018: 25
   
-- jmeno: Štěpánková Martina
-  vek: 33  
+- name: Štěpánková Martina
+  age: 33  
   prislusnost: nestraník
   ordkomunal2018: 26
   
-- jmeno: Deván Roman
-  vek: 29  
+- name: Deván Roman
+  age: 29  
   prislusnost: nestraník
   ordkomunal2018: 27
+ 
+- name: 
+  age: 
+  prislusnost: 
+  ordkomunal2018: 28
+ 
+- name: 
+  age: 
+  prislusnost: 
+  ordkomunal2018: 29
+ 
+- name: 
+  age: 
+  prislusnost: 
+  ordkomunal2018: 30
  
