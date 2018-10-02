@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Vzdělávání seniorů a série minipřednášek
+title: "Vzdělávání seniorů a série minipřednášek"
 date: 2018-10-02T00:00:00+02:00  
 tags: 
     - přednášky
@@ -11,9 +11,12 @@ author: Piráti Chrudim
 image: assets/img/posts/2018/seniori_prednasky.png #751x422
 ---
 
+Piráti pořádali nejen přednášky pro širokou vřejnost, ale také vzdělávají seniory v oblasti informačních technologií.   
+
+
 ## Piráti vzdělávají seniory v oblasti informačních technologií
 
-Koordinátor krajského sdružení Pardubického kraje České pirátské strany a lídr komunální kandidátky v Chrudimi, Pavel Štěpánek, pořádá vzdělávací kurzy práce s počítačem pro seniory. Minulý týden proběhlo školení ve spolupráci s chrudimským spolkem Hurá na výlet v jejich Hurá centru na Školním náměstí. Akce se zúčastnilo 5 seniorů. 
+Koordinátor krajského sdružení Pardubického kraje České pirátské strany a lídr komunální kandidátky v Chrudimi, [Pavel Štěpánek][1], pořádá vzdělávací kurzy práce s počítačem pro seniory. Minulý týden proběhlo školení ve spolupráci s chrudimským spolkem Hurá na výlet v jejich Hurá centru na Školním náměstí. Akce se zúčastnilo 5 seniorů. 
 
 Projekt je financován v rámci participativního rozpočtování Pirátské strany, prostřednictvím něhož Piráti vrací část státních prostředků formou veřejně prospěšných činností zpět společnosti. Kdokoliv si může přihlásit projekt, jehož jediným kritériem je veřejně prospěšný účel a členové Pirátské strany svým hlasováním určí, který projekt získá kolik finančních prostředků. 
 
@@ -41,7 +44,7 @@ A co je to Pirátská putovní universita (PPU)? Nejde o tradiční univerzitu, 
 Záznam minisérie přednášek je možné shlédnout na našem [youtube kanále](https://www.youtube.com/playlist?list=PL6xtxMlCl21QcRjlYOYFLvqhjTn_cnV4O)
 
 
-![Přednášky](/assets/img/posts/2018/prednasky_plakat.jpg)
+![Přednášky](/assets/img/posts/2018/prednasky_plakat.png)
 
 [1]: https://pardubice.pirati.cz/clenove/vojtech-jirsa/
 [2]: https://pardubice.pirati.cz/clenove/jakub-kutilek/
