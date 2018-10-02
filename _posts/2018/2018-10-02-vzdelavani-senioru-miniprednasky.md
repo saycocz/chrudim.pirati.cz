@@ -29,6 +29,9 @@ Seniory nevzdělávají Piráti jenom v Chrudimi. Školení už proběhlo i v Č
 
 ![Seniori](/assets/img/posts/2018/seniori.jpg)
 
+   
+   
+   
 ## Chrudimští Piráti ukončili první minisérii přednášek pro veřejnost
 
 V posledních čtyřech týdnech probíhaly každou středu v Měšťanské restauraci Muzeum v Chrudimi přednášky pro občany, které organizovali chrudimští Piráti ve spolupráci s Pirátskou putovní universitou. I když zájem z řad veřejnosti nebyl takový, jaký sami očekávali, nebyly určitě zbytečné. Každou z nich přenášeli živě na svou facebookovou stránku a nyní jsou všechny k dispozici na jejich kanálu YouTube. 
