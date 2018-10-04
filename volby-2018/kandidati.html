@@ -27,15 +27,7 @@ title: Kandidátní listiny Pirátů pro komunální volby 2018
        
               {% assign restteam = site.data.volby-2018.kandidatka | sort:"ordkomunal2018" %}
               {% for item in restteam %}
-                {% assign loopindex = forloop.index | modulo: 6 %}
-                {% if loopindex == 0 %}
-                  <div class="row text-left">
-                {% endif %} 
                 {% include people/restcandidatelist.html param='item' %}
-                {% if loopindex == 0 %}
-                  </div>
-                  <hr>
-                {% endif %}
               {% endfor %}
             </div>
           </div>
