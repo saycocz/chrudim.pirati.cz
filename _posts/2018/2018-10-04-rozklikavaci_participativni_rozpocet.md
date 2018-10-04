@@ -8,7 +8,7 @@ tags:
     - rozkli
 author: Zdenek Kubala
 
-image: assets/img/posts/2018/.png #751x422
+image: assets/img/posts/2018/laptop.jpg #751x422
 ---
 Krátké vysvětlení pojmů rozklikávací a participativní rozpočet a ukázka v praxi včetně nákladů na pořízení.
 
