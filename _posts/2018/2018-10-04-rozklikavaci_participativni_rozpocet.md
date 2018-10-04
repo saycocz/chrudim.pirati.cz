@@ -4,8 +4,9 @@ category: CLANKY
 title: "Rozklikávací a participativní rozpočet v praxi"
 date: 2018-10-04T00:00:00+02:00  
 tags: 
-    - participativní-rozpocet
-    - rozkli
+    - participativní-rozpočet
+    - rozklikávací-rozpočet
+    - transparentnost
 author: Zdenek Kubala
 
 image: assets/img/posts/2018/laptop.jpg #751x422
