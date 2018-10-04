@@ -65,11 +65,11 @@ Některé duůody proč je dobré zapojit obyvatele:
 - lepší vztah obyvatel k místu kde žijí
 
 ### Náklady
-- zdrojové kódy systému elektronického podávání(brněnský model) by měli být uvolněny pro veřejnost
-- náklady na nasazení v řádu tisícu max. desetiticícu(v závislosti na implementaci)
+- zdrojové kódy systému elektronického podávání(brněnský model) jsou volně dostupné\*
+- náklady na nasazení a provozování městem v řádu jednotek tisíců
 - provozní náklady úředníků dle počtu přihlášených projektů(správa a vyhodnocení proveditelnosti)
 
-
+\* pomoc zdarma při nasazení pro členy spolku Otevřená města
 
 
 
