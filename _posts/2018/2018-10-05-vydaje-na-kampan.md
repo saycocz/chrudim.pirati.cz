@@ -41,6 +41,6 @@ Transparenci myslíme vážně, proto zveřejňujeme naše příjmy a výdaje na
 | Rozdíl:                        |              |              | 0                           |
 ||||uváděné částky jsou v Kč|
 
-V našem transparentním účetnictví je jednotlivé položky pro celý Pardubický kraj možné sledovat [zde][1]
+V našem transparentním účetnictví je jednotlivé položky pro celý Pardubický kraj možné sledovat [zde][1].
 
 [1]: https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/pardubicko/220800150
