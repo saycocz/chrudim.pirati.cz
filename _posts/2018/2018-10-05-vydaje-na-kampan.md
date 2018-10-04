@@ -38,7 +38,8 @@ Transparenci myslíme vážně, proto zveřejňujeme naše příjmy a výdaje na
 | dary na chrudimskou kampaň     | 6225.89      |              | Jména dárců                 |
 |--------------------------------|--------------|--------------|-----------------------------|
 | **TOTAL:**                     | 43225.89     | 43222.89     |                             |
-| Rozdíl:                        |              |              | 0Kč                         |
+| Rozdíl:                        |              |              | 0                           |
+||||uváděné částky jsou v Kč|
 
 V našem transparentním účetnictví je jednotlivé položky pro celý Pardubický kraj možné sledovat [zde][1]
 
