@@ -35,7 +35,7 @@ Transparenci myslíme vážně, proto zveřejňujeme naše příjmy a výdaje na
 |                                |              | 1500         | FB a Google Ads 07/2018     |
 |                                |              | 2000         | reklama FB 10/2018          |
 |                                |              | 1800         | Google Ads 10/2018          |
-| dary na chrudimskou kampaň     | 6225.89      |              | Jména dárců                 |
+| dary na chrudimskou kampaň     | 6225.89      |              | Aleš Nunvář, Daniel Lebduška, Jiří Jansa, Pavel a Nikola Štěpánkovi a Zdeněk Kubala                |
 |--------------------------------|--------------|--------------|-----------------------------|
 | **TOTAL:**                     | 43225.89     | 43222.89     |                             |
 | Rozdíl:                        |              |              | 0                           |
