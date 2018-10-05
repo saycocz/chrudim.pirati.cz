@@ -33,8 +33,8 @@ Transparenci myslíme vážně, proto zveřejňujeme naše příjmy a výdaje na
 |                                |              | 10000        | video o vodě                |
 |                                |              | 3935.28      | Google Ads 09/2018          |
 |                                |              | 1500         | FB a Google Ads 07/2018     |
-|                                |              | 2500         | reklama FB 10/2018          |
-|                                |              | 1300         | Google Ads 10/2018          |
+|                                |              | 2000         | reklama FB 10/2018          |
+|                                |              | 1800         | Google Ads 10/2018          |
 | dary na chrudimskou kampaň     | 6225.89      |              | Jména dárců                 |
 |--------------------------------|--------------|--------------|-----------------------------|
 | **TOTAL:**                     | 43225.89     | 43222.89     |                             |
