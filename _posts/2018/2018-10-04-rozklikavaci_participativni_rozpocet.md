@@ -52,7 +52,7 @@ Participativní rozpočet v praxi
 -------------------------------
 Participativní rozpočet umožňuje, aby se občané zapojili do rozhodování o rozvoji své obce. A to nejen vyjádřením podpory 
 formou hlasováni, ale hlavně možností aktivně přihlásit svůj projekt(oprava lavičky, vysázení květin, odlití sochy atd.). 
-Existují projekty, které se tomu věnují, např. projekt[Participativní rozpočet][4] nebo např. v [Brně][5], kde Piráti zavedli 
+Existují projekty, které se tomu věnují, např. projekt [Participativní rozpočet][4] nebo v [Brně][5], kde Piráti zavedli 
 participaci - aktuálně je přihlášeno 133 projektů za 200 mil. Kč - a k tomu identitu občana města pro komunikaci s úřady. 
 I [Piráti][6] mají svůj participativní rozpočet, kde strana uvolňuje každý rok určitou částku na veřejně prospěšné projekty.
 Pro Chrudim bychom rádi na začátek vyčlenili **2 mil. Kč**(6-7% investičních možností města).
