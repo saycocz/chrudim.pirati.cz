@@ -23,7 +23,7 @@ Transparenci myslíme vážně, proto zveřejňujeme naše příjmy a výdaje na
 |                                |              |              |                             |
 | krajské sdružení Piráti        | 22000        |              |                             |
 | krajské sdružení Piráti        | 4500         | 4500         |  bannery                    |
-| krajské sdružení Piráti        | 5000         | 5000         | Pirátské listy              |
+| krajské sdružení Piráti        | 11485        | 11485        | Pirátské listy              |
 | krajské sdružení Piráti        | 5500         | 5500         | reklamní předměty           |
 |                                |              |  2093        | focení                      |
 |                                |              | 982          | tisková konference          |
@@ -37,7 +37,7 @@ Transparenci myslíme vážně, proto zveřejňujeme naše příjmy a výdaje na
 |                                |              | 1800         | Google Ads 10/2018          |
 | dary na chrudimskou kampaň     | 6225.89      |              | Aleš Nunvář, Daniel Lebduška, Jiří Jansa, Pavel a Nikola Štěpánkovi a Zdeněk Kubala                |
 |--------------------------------|--------------|--------------|-----------------------------|
-| **TOTAL:**                     | 43225.89     | 43222.89     |                             |
+| **TOTAL:**                     | 49710.89     | 49710.89     |                             |
 | Rozdíl:                        |              |              | 0                           |
 ||||uváděné částky jsou v Kč|
 
