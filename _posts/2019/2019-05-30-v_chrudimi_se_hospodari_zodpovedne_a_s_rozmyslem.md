@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "V Chrudimi se hospodaří zodpovědně a s rozmyslem"
-date: 2019-25-30T00:00:00+02:00  
+date: 2019-05-30T00:00:00+02:00  
 tags: 
     - město
     - zastupitelstvo
