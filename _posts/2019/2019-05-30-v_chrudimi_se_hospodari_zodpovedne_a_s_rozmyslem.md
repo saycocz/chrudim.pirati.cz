@@ -29,11 +29,11 @@ Proto chceme město připravit i na období, kdy příjmy nebudou
 zdaleka dosahovat tak příznivých čísel jako v současnosti.
 
 S městskými financemi budeme hospodařit odpovědně i v budoucnu.
-Rádi připomínáme, že za seriózně naplánovaný rozpočet, vděčíme především,
+Rádi připomínáme, že za seriózně naplánovaný rozpočet vděčíme především,
 předchozímu vedení města.
 
-Dalším bodem jednání byla výměna a počet členů v řídících orgánech v
-městských společnostech. Dozorčí rady Technických služeb Chrudim, Městských 
+Dalším bodem jednání byla výměna a sjednocení počtu členů v řídících orgánech 
+městských společností. Dozorčí rady Technických služeb Chrudim, Městských 
 lesů Chrudim a Sportovních areálů města Chrudim budou nyní pětičlenné.
 
 Také počet jednatelů Technických služeb byl odhlasován a snížen na tři.
