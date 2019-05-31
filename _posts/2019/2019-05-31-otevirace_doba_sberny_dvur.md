@@ -8,7 +8,7 @@ tags:
     - reuse-centrum
     - sběrný-dvůr
 author: Piráti Chrudim
-image: assets/img/posts/2018/trash-pawel-czerwinski-759725-unsplash.jpg #751x422
+image: assets/img/posts/2019/trash-pawel-czerwinski-759725-unsplash.jpg #751x422
 ---
 
 **Chrudimští Piráti splnili další ze svých předvolebních slibů a prosadili prodloužení otevírací doby sběrného dvora. Od 1. 6. 2019 bude sběrný dvůr otevřen každou sobotu až do 18:00. Zároveň se také podařilo prosadit změnu v ceníku odpadů, která se týká stavební suti. Každý občan může odvést do sběrného dvora až 200 kg stavební suti ročně zdarma.**
