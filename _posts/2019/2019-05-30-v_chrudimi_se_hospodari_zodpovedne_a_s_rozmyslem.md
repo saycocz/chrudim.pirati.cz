@@ -34,12 +34,12 @@ předchozímu vedení města.
 
 Dalším bodem jednání byla výměna a sjednocení počtu členů v řídících orgánech 
 městských společností. Dozorčí rady Technických služeb Chrudim, Městských 
-lesů Chrudim a Sportovních areálů města Chrudim budou nyní pětičlenné.
-
+lesů Chrudim a Sportovních areálů města Chrudim budou nyní pětičlenné.  
 Také počet jednatelů Technických služeb byl odhlasován a snížen na tři.
-Ke změně dochází i ve vedení společnosti Vodovody a kanalizace Chrudim
-a.s. Místo v jejím čele zaujmou osoby, které budou aktivně prosazovat,
-aby hospodaření s vodou bylo zpět v rukou města Chrudim.
+
+Ke změně by mělo dojít i ve vedení společnosti Vodovody a kanalizace Chrudim 
+a.s. Na místo v jejím čele jsme navrhli osoby, které budou aktivně prosazovat, 
+aby hospodaření s vodou bylo zpět v rukou města Chrudimi.
 
 JSME PIRÁTI, DRŽÍME KURZ!
 
