@@ -11,7 +11,7 @@ image: assets/img/posts/2018/money-rawpixel-761474-unsplash.jpg #751x422
 ---
 
 V Chrudimi proběhlo v úterý 27.5.2019 čtvrté jednání zastupitelstva města. 
-Přítomni byli i tři pirátšti zastupitelé, dva místostarostové Ing. Aleš 
+Přítomni byli i tři pirátští zastupitelé, dva místostarostové Ing. Aleš 
 Nunvář, Pavel Štěpánek a Bc. Daniel Lebduška.
 
 Město hospodařilo s rozmyslem a péčí řádného hospodáře. Rozpočtová i
