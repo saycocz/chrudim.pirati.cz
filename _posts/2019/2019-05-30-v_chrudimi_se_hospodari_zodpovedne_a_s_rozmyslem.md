@@ -16,8 +16,7 @@ Nunvář, Pavel Štěpánek a Bc. Daniel Lebduška.
 
 Město hospodařilo s rozmyslem a péčí řádného hospodáře. Rozpočtová i
 účetní uzávěrka byla uzavřena jako **přebytková** s příjmy vyššími oproti
-původním odhadům. Tyto příjmy byly využity ke snížení zadlužení města a
-vytvoření finančních rezerv pro další roky.
+původním odhadům. Tyto příjmy byly využity ke snížení zadlužení města a vytvoření finančních rezerv pro další roky.
 
 Součástí závěrečného účtu je i vyjádření auditora, který
 hodnotí hospodaření města jako **bezchybné a bez výhrad**.
@@ -25,8 +24,7 @@ hodnotí hospodaření města jako **bezchybné a bez výhrad**.
 Jako Piráti jsme hrdí na to, že se našemu městu daří a uvědomujeme si, že
 rozpočtově vlídné roky nebudou trvat věčně.
 
-Proto chceme město připravit i na období, kdy příjmy nebudou
-zdaleka dosahovat tak příznivých čísel jako v současnosti.
+Proto chceme město připravit i na období, kdy příjmy nebudou zdaleka dosahovat tak příznivých čísel jako v současnosti.
 
 S městskými financemi budeme hospodařit odpovědně i v budoucnu.
 Rádi připomínáme, že za seriózně naplánovaný rozpočet vděčíme především,
@@ -37,9 +35,7 @@ městských společností. Dozorčí rady Technických služeb Chrudim, Městsk�
 lesů Chrudim a Sportovních areálů města Chrudim budou nyní pětičlenné.  
 Také počet jednatelů Technických služeb byl odhlasován a snížen na tři.
 
-Ke změně by mělo dojít i ve vedení společnosti Vodovody a kanalizace Chrudim 
-a.s. Na místo v jejím čele jsme navrhli osoby, které budou aktivně prosazovat, 
-aby hospodaření s vodou bylo zpět v rukou města Chrudimi.
+Ke změně by mělo dojít i ve vedení společnosti Vodovody a kanalizace Chrudim a.s. Na místo v jejím čele jsme navrhli osoby, které budou aktivně prosazovat, aby hospodaření s vodou bylo zpět v rukou města Chrudimi.
 
 JSME PIRÁTI, DRŽÍME KURZ!
 
