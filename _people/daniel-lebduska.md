@@ -4,6 +4,7 @@ name:     Daniel Lebduška               # běžně používáné jméno
 fullname: Bc. Daniel Lebduška           # jméno s tituly etc.
 category:                               # kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
+- kppak
 - kandidat-chrudim-2018
 img: people/daniel-lebduska.jpg           # 165 x 220
 description: člen Pirátské strany, zastupitel města Chrudim, krajský předseda Pardubického kraje # kratký popis, max 160 znaků
