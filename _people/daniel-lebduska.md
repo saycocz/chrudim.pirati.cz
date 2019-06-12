@@ -22,13 +22,18 @@ profiles:
 ---
 
 
-Do strany vstoupil v lednu 2017 a od února 2017 je Krajským volebním koordinátorem pro Pardubický kraj. 
+**Daniel Lebduška** (* 30. září 1989 Chrudim) vyrůstal v Chrudimi a vystudoval v Praze na Karlově Univerzitě. Nyní opět žije s rodinou v Chrudimi.
 
-_* 30. září 1989 Chrudim_
+Od roku 2013 působí v marketingu na různých pozicích - nyní jako výkonný ředitel ve společnosti IPC Team - zabývá se především online a okrajově offline marketingem. Zároveň pomáhá s marketingem dalším firmám ve volném čase jako freelancer.
 
-Daniel vyrůstal v Chrudimi a studoval v Praze. Nyní opět žije v Chrudimi.
+**Politický postoj:**
 
-Od roku 2013 působí v marketingu na různých pozicích - nyní jako marketingový manažer ve společnosti IPC Team - zabývá se především online marketingem, okrajově i offline marketingem. Zároveň se pomáhá s marketingem dalším firmám ve volném čase jako freelancer.
+"S postoji #Pirátskástrana dlouhodobě souhlasím a největší problém české politiky je v tom, že to není politika, ale jakási absurdní tragikomedie, která svou délkou většinu obecenstva unudila a odešli domů. Nějak stále věřím tomu, že republika je od "res publica" a tak by neměl zůstávat v platnosti princip, který si mnoho lidí uchovává a nevědomky předává dál svým dětem - myslím tím princip "nerušit, vládneme." Tento princip, které je zde od komunismu zakořeněný, nechci, díky. Lidé by se měli chtít o politiku aktivně zajímat a i o to Pirátům jde."
 
-Politický postoj: „S názory #Pirátskástrana dlouhodobě souhlasím a největší problém české politiky je v tom, že to není politika, ale hraní si na ni. Nějak stále věřím tomu, že republika je od „res publica“ a tak by neměl platit precedens, který si mnoho lidí uchovává a nevědomky předává svým dětem - „nerušit, vládneme“ nechci, díky … Jo a nevadí mi cikáni, ani uprchlíci - ti naši zemi obírají o podstatně méně, než předem domluvená výběrová řízení pro jednoho dodavatele v součtu všech státních zakázek v řádech bambilionů ročně.“
+V komunální politice se zaměřuje na problematiku privatizace městských vodárenských společností, možné digitalizace a zatraktivnění veřejných institucí šířší veřejnosti.
+
+Na krajské a celorepublikové úrovni se zajímá o hospodářský rozvoj a cestovní ruch.
+
+Do strany vstoupil v lednu 2017 a během úspěšné sněmovní kampaně byl volebním koordinátorem a koordinátorem dobrovolníků pro Pardubický kraj. V březnu 2018 ho na postu krajského koordinátora vystřídal Pavel Štěpánek.
+
 
