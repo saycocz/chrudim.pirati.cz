@@ -7,7 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kppak
 - kandidat-chrudim-2018
 img: people/jiri-jansa.jpg           # 165 x 220
-description: předseda krajského sdružení Pardubického kraje			# kratký popis, max 160 znaků
+description: člen krajského sdružení Pardubického kraje			# kratký popis, max 160 znaků
 candidatedesc: aktuár
 ordpak: 
 ordkomunal2018: 10
