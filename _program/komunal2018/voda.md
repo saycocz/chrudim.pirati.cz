@@ -1,7 +1,7 @@
 ---
 uid: voda
 garant: Daniel Lebduška
-title: voda
+title: Vodárenství
 img: voda.svg
 perex:
 order: 8
