@@ -23,7 +23,7 @@ Je mi líto všech, kterým uzavírky spojené s rekonstrukcemi komplikují živ
 
 Rád bych tedy zakončil svůj text výzvou, abychom k sobě byli ohleduplní. Respektujme objízdné trasy a během stavební sezóny určité dopravní komplikace vydržme, a to nejen u nás v Chrudimi. Silnice se v létě opravují po celé zemi a všude jsou tím způsobeny jisté komplikace. V několika příštích letech čeká Chrudim a blízké okolí poměrně mnoho zásadních rekonstrukcí, ať už to bude most u Tesca, ulice Čáslavská až do Heřmanova Městce, ulice Pardubická, Masarykovo náměstí, Palackého třída a další. Nebuďme těmi, kdo si stěžují, že jsou silnice rozbité, a pak si stěžují, že se silnice opravují. Mnohdy může pozitivní přístup ukázat, že se vlastně tolik neděje, když musím na nákup na čas o něco delší cestou. Třeba se zamyslíme i nad tím, zda to nejde jinak a auto je možné protentokrát nechat doma. 
 
-V případě dotazů či připomínek k dopravní situaci v Chrudimi je možné kontaktovat odbor dopravy nebo přímo mě. Kontakty jsou uvedeny na webu města [chrudim.eu](https://www.chrudim.eu). 
+V případě dotazů či připomínek k dopravní situaci v Chrudimi je možné kontaktovat odbor dopravy nebo přímo mě. Kontakty jsou uvedeny na webu města [Chrudim](https://www.chrudim.eu). 
 
 *Přeji Vám pokud možno krásné léto.*
 
