@@ -34,3 +34,5 @@ Ukázal, že přímý přenos zastupitelstva v Chrudimi je možný, snaží se o
 
 Zajímá se o nové technologie, které rád prozkoumává. Jeho vášní je operační systém LINUX a open source všeobecně. Mimojiné ho baví fotbal, hokej, paintball,rád relaxuje na kolečkových bruslích či při běhu a nebo při mixování elektronické hudby. Jeho práce je zároveň i jeho koníčkem.
 
+Od roku 2019 je předsedou komise pro [digitalizaci](https://forum.pirati.cz/viewtopic.php?f=775&t=46608) rady města Chrudim, ve které by rád pomohl transformaci města z 19. do 21. století za přispění otevřených technologií. V téže roce byl zvolen členem kontrolního výboru města Chrudim.
+
