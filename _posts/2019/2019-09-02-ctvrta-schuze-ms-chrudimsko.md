@@ -7,8 +7,7 @@ tags: schůze
 author: Piráti MS Chrudimsko
 image: articles/2019/piratichrphoto.jpg
 ---
-
-MS Chrudimsko se **8.9.2019** od **17:00** sejde v Luži v restauraci [Vídeň](http://restauraceviden.cz/) - [mapa](https://en.mapy.cz/zakladni?x=16.0290522&y=49.8935152&z=19&source=addr&id=9621835)  
+**8.9.2019** od **17:00** se v restauraci [Vídeň](http://restauraceviden.cz/) v Luži sejde místní sdružení pirátů na Chrudimsku - [mapa](https://en.mapy.cz/zakladni?x=16.0290522&y=49.8935152&z=19&source=addr&id=9621835)  
 Tímto srdečně zveme všechny zájemce a příznivce.
 
 Agenda schůze:
@@ -23,9 +22,8 @@ Agenda schůze:
 * různé
 
 
-Chcete se dozvědět více? Tak rozhodně doražte! Těšíme se na vás! :)
-
-Kontakt na organizátora - Daniel Lebduška - 770 113 647
+Zajímá vás více? Tak rozhodně doražte! Těšíme se na vás! :)
+Kontakt: chrudimsko@pirati.cz
 
 Schůze je otevřena veřejnosti a program je otevřen i vašim podnětům.
 
