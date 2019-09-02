@@ -8,7 +8,7 @@ author: Piráti MS Chrudimsko
 image: articles/2019/piratichrphoto.jpg
 ---
 
-MS Chrudimsko se 8.9.2019 od 17:00 sejde v Luži v restauraci [Vídeň](http://restauraceviden.cz/) - [mapa](https://en.mapy.cz/zakladni?x=16.0290522&y=49.8935152&z=19&source=addr&id=9621835)
+MS Chrudimsko se **8.9.2019** od **17:00** sejde v Luži v restauraci [Vídeň](http://restauraceviden.cz/) - [mapa](https://en.mapy.cz/zakladni?x=16.0290522&y=49.8935152&z=19&source=addr&id=9621835)  
 Tímto srdečně zveme všechny zájemce a příznivce.
 
 Agenda schůze:
