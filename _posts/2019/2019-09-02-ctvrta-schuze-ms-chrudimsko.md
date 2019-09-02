@@ -19,6 +19,7 @@ Agenda schůze:
 * pirátské listy
 * Chrudimské Pirátské Centrum
 * report ze zastupitelstev
+* představení kandidátů pro krajské volby
 * různé
 
 
