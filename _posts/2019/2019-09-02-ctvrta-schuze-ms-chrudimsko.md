@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 4. schůze MS Chrudimsko - 8.9.2019 Lůže 
+title: 4. schůze MS Chrudimsko - 8.9.2019 Luže 
 date: 2019-09-02T00:00:00+02:00
 tags: schůze
 author: Piráti MS Chrudimsko
