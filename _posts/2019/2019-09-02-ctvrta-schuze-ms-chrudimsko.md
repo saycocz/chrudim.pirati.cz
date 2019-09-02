@@ -28,5 +28,6 @@ Kontakt: chrudimsko@pirati.cz
 Schůze je otevřena veřejnosti a program je otevřen i vašim podnětům.
 
 Důležité odkazy:
-[Fórum](https://forum.pirati.cz/viewtopic.php?p=633656#p633656)
+----------------
+[Fórum](https://forum.pirati.cz/viewtopic.php?p=633656#p633656)  
 [Facebooková událost]()
