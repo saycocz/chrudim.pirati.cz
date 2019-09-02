@@ -23,10 +23,10 @@ Agenda schůze:
 * různé
 
 
-Zajímá vás více? Tak rozhodně doražte! Těšíme se na vás! :)
+Zajímá Vás více? Tak rozhodně doražte! Těšíme se na Vás! :)
 Kontakt: chrudimsko@pirati.cz
 
-Schůze je veřejná a program je otevřen i vašim podnětům.
+Schůze je veřejná a program je otevřen i Vašim podnětům.
 
 Důležité odkazy:
 ----------------
