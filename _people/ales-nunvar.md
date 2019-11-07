@@ -7,7 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-chrudim-2018
 - pmschr
 img: people/ales-nunvar.jpg           # 165 x 220
-description: 1. Místopředseda MS Chrudimsko
+description: 1. místopředseda MS Chrudimsko
 candidatedesc: Projektový manažer 
 ordpak: 
 ordkomunal2018: 3
