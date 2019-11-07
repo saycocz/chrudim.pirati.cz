@@ -7,7 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kppak
 - kandidat-chrudim-2018
 img: people/zdenek-kubala.jpg           # 165 x 220
-description: IT Inženýr/Architekt (Linux/Cloud/Networking) a konzultant, zástupce vedoucího technického odboru # kratký popis, max 160 znaků
+description: Předseda MS Chrudimsko, IT Inženýr/Architekt (Linux/Cloud/Networking) a konzultant, zástupce vedoucího technického odboru # kratký popis, max 160 znaků
 candidatedesc: IT Inženýr/Architekt (Linux/Cloud/Networking), IT konzultant 
 ordpak: 
 ordkomunal2018: 4
