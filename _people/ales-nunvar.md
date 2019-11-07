@@ -5,8 +5,9 @@ fullname: Ing. Aleš Nunvář	# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - kandidat-chrudim-2018
+- pmschr
 img: people/ales-nunvar.jpg           # 165 x 220
-description: člen Pirátské strany
+description: 1. Místopředseda MS Chrudimsko
 candidatedesc: Projektový manažer 
 ordpak: 
 ordkomunal2018: 3
