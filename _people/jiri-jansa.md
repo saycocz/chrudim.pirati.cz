@@ -3,6 +3,7 @@ uid: jiri.jansa
 name:     Jiří Jansa      		# běžně používáné jméno
 fullname: Mgr. Jiří Jansa		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+- kandidatchr18
 - pak
 - kppak
 - kandidat-chrudim-2018

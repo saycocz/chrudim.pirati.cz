@@ -3,6 +3,7 @@ uid: daniel.lebduska
 name:     Daniel Lebduška               # běžně používáné jméno
 fullname: Bc. Daniel Lebduška           # jméno s tituly etc.
 category:                               # kategorie: rp, praha, vary, hradec, jmk, senat
+- kandidatchr18
 - pak
 - kppak
 - kandidat-chrudim-2018

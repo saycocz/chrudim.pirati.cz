@@ -3,6 +3,7 @@ uid: les.nunvar
 name:     Aleš Nunvář		# běžně používáné jméno
 fullname: Ing. Aleš Nunvář	# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+- kandidatchr18
 - pak
 - kandidat-chrudim-2018
 - pmschr
