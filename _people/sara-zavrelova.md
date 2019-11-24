@@ -24,18 +24,22 @@ profiles:
 
 Sára Zavřelová (nar. 26.9.1992) Pochází z Heřmanova Městce kde současně žije. 
 
-Momentálně je na mateřské se dvěma kluky a současně studuje.  
-Pracovní zkušenosti má z rodinné firmy kde byla na pozici prodavačky a 
-dekoratéra. Pracovala i jako operátor ve výrobě a sekretářka 
-(administrativní pracovník).  
 
-Ve svém městě se snaží o organizaci dobrovolnických akcí např: Ukliďme 
-Česko, aktivní život seniorů. Ráda přispěla i k uspořádání 
-undergroundového koncertu el.hudby.  
+V současné době je místopředsedkyní MS Chrudimsko. Ve svém městě je 
+členkou komise pro životní prostředí, pracuje na zvýšení potenciálu pro 
+Piráty.   
+Pracovní zkušenosti má z rodinné firmy v oboru zahradnictví. Pracovala 
+na administrativní pozici pro Medea s.r.o.  
 
-Cílem její práce u Pirátů je nabídnout lidem jinou politiku, než na 
-kterou jsou zvyklí. Nesouhlasí se současnými politickými praktikami. 
-Snaží se přispět k politické vzdělanosti svého okolí. Záleží jí na 
-osvětě zpracování odpadů. 
+
+ Cílem její práce u Pirátů je nabídnout lidem efektivní přístupy k 
+politice a probudit zájem o věci veřejné. Nesouhlasí se současnými 
+politickými praktikami. Snaží se přispět k politické vzdělanosti svého 
+okolí. Záleží jí na osvětě zpracování odpadů a životním prostředí.
+
+
+
+>Skutečná láska není vždycky jen milá, příjemná a vonící květinami. Ve většině případů vypadá docela jinak.                   Má vykasané rukávy, ušpiněné ruce a zpocené čelo.
+
 
 
