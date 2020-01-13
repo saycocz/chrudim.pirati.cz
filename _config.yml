@@ -21,7 +21,10 @@ description: # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chrudim.pirati.cz" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  pirati-web
+github:
+  url: https://github.com/pirati-web/chrudim.pirati.cz/
+  branch: gh-pages
 
 # Build settings
 markdown: kramdown
