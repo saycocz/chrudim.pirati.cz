@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Burza podnikatelů
-date: 2020-1-012T00:00:00+01:00
+date: 2020-02-01T00:00:00+01:00
 tags: 
       - burzapodnikatelu
       - chrudim
