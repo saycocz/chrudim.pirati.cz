@@ -3,6 +3,7 @@ uid: pavel.stepanek
 name:     Pavel Štěpánek  	# běžně používáné jméno
 fullname: Pavel Štěpánek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- ms
 - kandidatchr18
 - pak
 - koordinatori
