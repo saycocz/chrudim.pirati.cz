@@ -3,6 +3,7 @@ uid: nikola.stepankova
 name:     Nikola Štěpánková      		# běžně používáné jméno
 fullname: Nikola Štěpánková		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+- ms
 - kandidatchr18
 - pak
 - kandidat-chrudim-2018
