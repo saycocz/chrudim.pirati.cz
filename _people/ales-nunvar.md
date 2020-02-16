@@ -1,8 +1,9 @@
 ---
-uid: les.nunvar
+uid: ales.nunvar
 name:     Aleš Nunvář		# běžně používáné jméno
 fullname: Ing. Aleš Nunvář	# jméno s tituly etc.
-category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+category:  # kategorie: rp, praha, vary, hradec, jmk, senat
+- pms
 - kandidatchr18
 - pak
 - kandidat-chrudim-2018
@@ -10,7 +11,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/ales-nunvar.jpg           # 165 x 220
 description: 1. místopředseda MS Chrudimsko
 candidatedesc: Projektový manažer 
-ordpak: 
+ordpms: 2
 ordkomunal2018: 3
 mail:
 - ales.nunvar@pirati.cz
