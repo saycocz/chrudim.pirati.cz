@@ -3,12 +3,13 @@ uid: sara.zavrelova
 name:     Sára Zavřelová      		# běžně používáné jméno
 fullname: Sára Zavřelová      		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+- pms
 - pak
 - mpchr
 img: people/sara-zavrelova.jpg           # 165 x 220
 description: 2. místopředsedkyně MS Chrudimsko # kratký popis, max 160 znaků
 candidatedesc: 
-ordpak: 
+ordpms: 3
 ordkomunal2018: 
 mail:
 - sara.zavrelova@pirati.cz
