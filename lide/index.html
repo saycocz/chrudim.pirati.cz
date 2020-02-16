@@ -46,7 +46,7 @@ img: brand/logo.svg
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                     <a href="#senat" class="c-simple-accordion-title">Náš tým</a>
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'pak'" | sort:"ordpak" %}
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'ms'" | sort:"ordms" %}
                                         {% include people/list-2col.html param=team %}
                                         {% if team == null %}<br>Zatím žádný zástupce{% endif %}
                                     </div>
