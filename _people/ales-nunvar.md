@@ -9,14 +9,14 @@ category:  # kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-chrudim-2018
 - pmschr
 img: people/ales-nunvar.jpg           # 165 x 220
-description: 1. místopředseda MS Chrudimsko
+description: 1. místopředseda MS Chrudimsko, místostarosta města Chrudim
 candidatedesc: Projektový manažer 
 ordpms: 2
 ordkomunal2018: 3
 mail:
 - ales.nunvar@pirati.cz
 mob: 
-age: 39
+age: 40
 profiles:
   github: 
   facebook: 
