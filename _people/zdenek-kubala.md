@@ -2,7 +2,8 @@
 uid: zdenek.kubala
 name:     Zdeněk Kubala      		# běžně používáné jméno
 fullname: Zdeněk Kubala		# jméno s tituly etc.
-category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+category:      # kategorie: rp, praha, vary, hradec, jmk, senat
+- pms
 - kandidatchr18
 - pak
 - kppak
@@ -10,12 +11,12 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/zdenek-kubala.jpg           # 165 x 220
 description: Předseda MS Chrudimsko, IT Inženýr/Architekt (Linux/Cloud/Networking) a konzultant, zástupce vedoucího technického odboru # kratký popis, max 160 znaků
 candidatedesc: IT Inženýr/Architekt (Linux/Cloud/Networking), IT konzultant 
-ordpak: 
+ordpms: 1
 ordkomunal2018: 4
 mail:
 - zdenek.kubala@pirati.cz
 mob: 
-age: 32
+age: 33
 
 profiles:
   github: djz88
