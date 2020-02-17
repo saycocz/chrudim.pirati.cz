@@ -91,8 +91,7 @@ jsem se věnoval těmto tématům:
   
   
   
-**Náhled do kalendářů místostarostů:** https://www.chrudim.eu/verejne-kalendare-starosty-a-mistostarostu/d-1677/p1=1112
-
+**Náhled do kalendářů místostarostů:** [zde](https://www.chrudim.eu/verejne-kalendare-starosty-a-mistostarostu/d-1677/p1=1112)
 
 
 
