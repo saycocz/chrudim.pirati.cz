@@ -13,20 +13,20 @@ image: assets/img/posts/2020/ales_pavel_doku.jpg #751x422
 
 Od ledna budeme s veřejností pravidelně sdílet informace o činnosti pirátů na chrudimské radnici. 
 Každý měsíc proto budeme zveřejňovat souhry práce, včetně časové dotace, kterou práci pro město věnujeme. 
-S koaličními partnery vedeme debaty o všech oblastech, spojených s řízením města.
+S koaličními partnery vedeme debaty o všech oblastech, spojených s řízením města. 
+Každý z nás má však některé oblasti na starosti.
 
 
 Pavel Štěpánek
 --------------
 
-Každý z nás má však některé oblasti na starosti. Mýmigescemi jsou doprava, sociální věci a stavební odbor. 
-Jde tedy především o projednávání a schvalování dopravních omezení a realizaci dopravních opatření, 
-vedoucích ke zlepšení dopravní situace a v oblasti parkování. Sociální odbor pak zajišťuje
-sociální práci pro všechny cílové skupiny ohrožených obyvatel a spolupráci mezi neziskovými organizacemi, 
-působící v naší oblasti. Stavební odbor funguje v přenesené působnosti státní moci, rozhoduje tedy samostatně. 
-Nicméně všechna rozhodnutí mi prochází rukami a mám možnost se k nim vyjadřovat, případně iniciovat jednání s investory. 
-
-Od začátku roku 2020 si evidujeme čas, který práci na radnici věnujeme a konkrétní činnosti, které daný měsíc vykonáváme. 
+Mými gescemi jsou doprava, sociální věci a stavební odbor. Jde tedy především o projednávání a schvalování 
+dopravních omezení a realizaci dopravních opatření, vedoucích ke zlepšení dopravní situace a v 
+oblasti parkování, včetně veřejných projednání s občany. Sociální odbor pak zajišťuje sociální práci pro všechny 
+cílové skupiny ohrožených obyvatel a spolupráci mezi neziskovými organizacemi, působící v naší oblasti. 
+Stavební odbor funguje v přenesené působnosti státní moci, rozhoduje tedy samostatně. Nicméně všechna rozhodnutí 
+mi prochází rukami a mám možnost se k nim vyjadřovat, případně iniciovat jednání s investory. Od začátku roku 2020 
+si evidujeme čas, který práci na radnici věnujeme a konkrétní činnosti, které daný měsíc vykonáváme. 
 Za leden jsem odpracoval **89 hodin**. Na začátku měsíce jsem dobíral dovolenou z loňského roku. 
 Mimo jiné jsem se věnoval těmto tématům.
 
