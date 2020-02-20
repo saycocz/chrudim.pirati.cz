@@ -10,11 +10,10 @@ tags:
 author: Piráti MS Chrudimsko
 image: assets/img/posts/2020/ales_pavel_doku.jpg #751x422
 ---
-
-Od ledna budeme s veřejností pravidelně sdílet informace o činnosti pirátů na chrudimské radnici. 
+**Od ledna budeme s veřejností pravidelně sdílet informace o činnosti pirátů na chrudimské radnici. 
 Každý měsíc proto budeme zveřejňovat souhry práce, včetně časové dotace, kterou práci pro město věnujeme. 
 S koaličními partnery vedeme debaty o všech oblastech, spojených s řízením města. 
-Každý z nás má však některé oblasti na starosti.
+Každý z nás má však některé oblasti na starosti.**
 
 
 Pavel Štěpánek
