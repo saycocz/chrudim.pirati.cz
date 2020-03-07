@@ -26,7 +26,7 @@ profiles:
 ---
 Je členem Pirátské strany. Řadí se mezi neortodoxní vimaře.  
 Narozen a s občasnými pracovními zastávkami v Brně a Praze přes 30 let žijící v Chrudimi.  
-Vystudoval SOŠ v Hradci Králové, poté přerušil studium na Univerzitě Pardubice obor Informační technologie, který jej zcela nenaplňoval.  
+Vystudoval SOŠ v Hradci Králové, poté studoval na Univerzitě Pardubice obor Informační technologie, který jej zcela nenaplňoval a studium ukončil.  
 
 Pracovní zkušenosti nabral v několika národních i nadnárodních společnostech a to zejména v oblastech správy sítí a operačních systému, podílel se na projektech týkající se informačních systémů, infrastruktury či služeb a v neposlední řadě návrhu IT řešení preferující LINUX a open source. Aktuálně je zaměstnán jako automatizační inženýr v oddělení výzkumu a vývoje opensourcové softwarové firmy, IT konzultant na volné noze a přednáší na Open Source konferencích. 
 
