@@ -18,7 +18,6 @@ rbar: cal, people, video
         {% endif %}
         {% unless article.tags contains "report" %}
         {% capture index %} {{ index | plus: 1 }} {% endcapture %}
-        {% for article in site.posts limit: 6 %}
         <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting-excerpt" itemscope="">
           <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
           <div class="c-BlogPosting-excerpt-contentWrapper u-cf">
