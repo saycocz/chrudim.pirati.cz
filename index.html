@@ -11,6 +11,13 @@ rbar: cal, people, video
         <header class="o-section-header">
           <h1 class="o-section__heading">Aktuální témata</h1>
         </header>
+        {% assign index = 0 %}
+        {% for article in site.posts %}
+        {% if index contains "6" %}
+            {% break %}
+        {% endif %}
+        {% unless article.tags contains "report" %}
+        {% capture index %} {{ index | plus: 1 }} {% endcapture %}
         {% for article in site.posts limit: 6 %}
         <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting-excerpt" itemscope="">
           <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
