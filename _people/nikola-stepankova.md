@@ -15,13 +15,15 @@ ordkomunal2018: 5
 mail:
 - nikola.stepankova@pirati.cz
 mob: 
-age: 32
+age: 34
 profiles:
   github:
   facebook: 
   twitter:
   linkedin:
 ---
-Vystudovala gymnázium a nedostudovala Fakultu humanitních studií Karlovy univerzity, z důvodu odjezdu na Island, kde se stala součástí projektu vlády – zalesnění země a dále pracovala v zimním středisku. Zkušenosti má především v oblasti prodeje. 
-Před nástupem na rodičovskou dovolenou, pracovala jako specialistka firemní péče u mobilního operátora. Příležitostně hodnotí projekty pro nadační fond a nyní zasedá v Komisi pro životní prostředí města Chrudimi. 
-Angažuje se v aktivitách souvisejících s kulturou a v době studia pracovala jako dobrovolnice pro charitu. Jejím zájmem je především pole dance, jízda na kole, snowboarding a fotografování.
+Vystudovala gymnázium a nedostudovala Fakultu humanitních studií Karlovy univerzity, z důvodu odjezdu do ciziny, konkrétně na Island, kde se stala součástí projektu vlády - zalesnění země a dále zde pracovala v zimním středisku.
+
+V současnosti je koordinátorkou centra pro seniory spolku Hurá na Výlet! Má zkušenosti i z oblasti pohostinství, vedení občerstvení či snowboardové školy. Před nástupem na rodičovskou dovolenou, pracovala řadu let jako specialista firemní péče u mobilního operátora. Příležitostně zde hodnotila projekty pro nadační fond. Nyní zasedá v Bytové komisi města Chrudimi.
+
+Angažuje se v aktivitách souvisejících s životním prostředím a kulturou. V době studia pracovala jako dobrovolnice pro charitu. Průběžně se vzdělává. Jejím zájmem je především rodina. Když najde volný čas, věnuje se pole dance, jízdě na kole, snowboardingu či fotografování.
