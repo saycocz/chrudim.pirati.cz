@@ -9,14 +9,13 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
 - kandidat-chrudim-2018
 img: people/pavel-stepanek.jpg   # 165 x 220
-description: Koordinátor krajského sdružení pro Pardubický kraj, vedoucím krajského mediálního doboru Pirátů a asistent poslance # kratký popis, max 160 znaků
-candidatedesc: živnostník, člen kulturní komise rady města Chrudim
+description: Celostátní volební koordinátor Pirátů, Místostarosta města Chrudim
 ordpak: 
 ordkomunal2018: 1
 mail:
 - pavel.stepanek@pirati.cz
 mob:			  
-age: 33
+age: 34
 profiles:
   github:                 
   facebook: 		  
