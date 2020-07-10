@@ -3,11 +3,10 @@ uid: sara.zavrelova
 name:     Sára Zavřelová      		# běžně používáné jméno
 fullname: Sára Zavřelová      		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- pms
 - pak
 - mpchr
 img: people/sara-zavrelova.jpg           # 165 x 220
-description: 2. místopředsedkyně MS Chrudimsko # kratký popis, max 160 znaků
+description: členka místního sdružení Chrudimsko # kratký popis, max 160 znaků
 candidatedesc: 
 ordpms: 3
 ordkomunal2018: 
@@ -26,8 +25,7 @@ profiles:
 Sára Zavřelová (nar. 26.9.1992) Pochází z Heřmanova Městce kde současně žije. 
 
 
-V současné době je místopředsedkyní MS Chrudimsko. Ve svém městě je 
-členkou komise pro životní prostředí, pracuje na zvýšení potenciálu pro 
+V současné době je členkou komise pro životní prostředí právě ve svém rodném městě. Mezi své priority řadí zvýšení potenciálu pro 
 Piráty.   
 Pracovní zkušenosti má z rodinné firmy v oboru zahradnictví. Pracovala 
 na administrativní pozici pro Medea s.r.o.  
