@@ -11,7 +11,7 @@ category:      # kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/zdenek-kubala.jpg           # 165 x 220
 description: člen místního sdružení Chrudimsko, IT Inženýr/Architekt (Linux/Cloud/Networking) a konzultant, zástupce vedoucího technického odboru Piratů   # kratký popis, max 160 znaků
 candidatedesc: IT Inženýr/Architekt (Linux/Cloud/Networking), IT konzultant 
-ordpms: 1
+ordpms: 
 ordkomunal2018: 4
 mail:
 - zdenek.kubala@pirati.cz
