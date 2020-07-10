@@ -21,7 +21,7 @@ profiles:
   github:
   facebook: 
   twitter:
-  linkedin:[Nikola Štěpánková](https://www.linkedin.com/in/nikola-%C5%A1t%C4%9Bp%C3%A1nkov%C3%A1-89ab069a/)
+  linkedin: [Nikola Štěpánková](https://www.linkedin.com/in/nikola-%C5%A1t%C4%9Bp%C3%A1nkov%C3%A1-89ab069a/)
 ---
 Vystudovala gymnázium a nedostudovala Fakultu humanitních studií Karlovy univerzity, z důvodu odjezdu do ciziny, konkrétně na Island, kde se stala součástí projektu vlády - zalesnění země a dále zde pracovala v zimním středisku.
 
