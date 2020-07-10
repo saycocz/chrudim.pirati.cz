@@ -12,7 +12,6 @@ img: people/nikola-stepankova.jpg           # 165 x 220
 description: Členka Pirátské strany a bytové komise rady města Chrudim # kratký popis, max 160 znaků
 candidatedesc: kreativní ředitelka domácnosti
 ordpms: 1
-ordpak: 
 ordkomunal2018: 5
 mail:
 - nikola.stepankova@pirati.cz
