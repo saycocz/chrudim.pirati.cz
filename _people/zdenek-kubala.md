@@ -3,20 +3,19 @@ uid: zdenek.kubala
 name:     Zdeněk Kubala      		# běžně používáné jméno
 fullname: Zdeněk Kubala		# jméno s tituly etc.
 category:      # kategorie: rp, praha, vary, hradec, jmk, senat
-- pms
 - kandidatchr18
 - pak
 - kppak
 - kandidat-chrudim-2018
 img: people/zdenek-kubala.jpg           # 165 x 220
-description: Předseda MS Chrudimsko, IT Inženýr/Architekt (Linux/Cloud/Networking) a konzultant, zástupce vedoucího technického odboru Piratů   # kratký popis, max 160 znaků
+description: člen místního sdružení Chrudimsko, IT Inženýr/Architekt (Linux/Cloud/Networking) a konzultant, zástupce vedoucího technického odboru Piratů   # kratký popis, max 160 znaků
 candidatedesc: IT Inženýr/Architekt (Linux/Cloud/Networking), IT konzultant 
 ordpms: 1
 ordkomunal2018: 4
 mail:
 - zdenek.kubala@pirati.cz
 mob: 
-age: 33
+age: 34
 
 profiles:
   github: djz88
@@ -34,7 +33,7 @@ Je v [rezortním týmu Informatika](https://www.pirati.cz/pripoj-se/informatika/
 
 Ukázal, že přímý přenos zastupitelstva v Chrudimi je možný, snaží se o otevění a ztransparentnění městkého úřadu a efektivní digitalizaci.
 
-Zajímá se o nové technologie, které rád prozkoumává. Jeho vášní je operační systém LINUX a open source všeobecně. Mimojiné ho baví fotbal, hokej, paintball,rád relaxuje na kolečkových bruslích či při běhu a nebo při mixování elektronické hudby. Jeho práce je zároveň i jeho koníčkem.
+Zajímá se o nové technologie, které rád prozkoumává. Jeho vášní je operační systém LINUX a open source všeobecně. Mimo jiné ho baví fotbal, hokej, paintball,rád relaxuje na kolečkových bruslích či při běhu a nebo při mixování elektronické hudby. Jeho práce je zároveň i jeho koníčkem.
 
 Od roku 2019 je předsedou komise pro [digitalizaci](https://forum.pirati.cz/viewtopic.php?f=775&t=46608) rady města Chrudim, ve které by rád pomohl transformaci města z 19. do 21. století za přispění otevřených technologií. V téže roce byl zvolen členem kontrolního výboru města Chrudim a od prosince 2019 je členem dozorčí rady Sportovních areálů města Chrudim.
 
