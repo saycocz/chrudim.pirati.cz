@@ -3,6 +3,7 @@ uid: zdenek.kubala
 name:     Zdeněk Kubala      		# běžně používáné jméno
 fullname: Zdeněk Kubala		# jméno s tituly etc.
 category:      # kategorie: rp, praha, vary, hradec, jmk, senat
+- ms
 - kandidatchr18
 - pak
 - kppak
