@@ -3,7 +3,7 @@ uid: nikola.stepankova
 name:     Nikola Štěpánková      		# běžně používáné jméno
 fullname: Nikola Štěpánková		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- ms
+- pms
 - kandidatchr18
 - pak
 - kandidat-chrudim-2018
@@ -20,7 +20,7 @@ profiles:
   github:
   facebook: 
   twitter:
-  linkedin:
+  linkedin:[Nikola Štěpánková](https://www.linkedin.com/in/nikola-%C5%A1t%C4%9Bp%C3%A1nkov%C3%A1-89ab069a/)
 ---
 Vystudovala gymnázium a nedostudovala Fakultu humanitních studií Karlovy univerzity, z důvodu odjezdu do ciziny, konkrétně na Island, kde se stala součástí projektu vlády - zalesnění země a dále zde pracovala v zimním středisku.
 
