@@ -7,6 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidatchr18
 - pak
 - kandidat-chrudim-2018
+- pmschr
 img: people/nikola-stepankova.jpg           # 165 x 220
 description: Členka Pirátské strany a bytové komise rady města Chrudim # kratký popis, max 160 znaků
 candidatedesc: kreativní ředitelka domácnosti
