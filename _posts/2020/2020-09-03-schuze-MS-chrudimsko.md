@@ -34,3 +34,7 @@ Hlinečtí příznivci Pirátů vysvětlili, jak pracují v zastupitelstvu, kde 
 **MS CHRUDIM**
 
 V oficiální části schůze se diskutovalo o rozpočtu na příští rok a o PR pracovníkovi, který byl na zkoušku přijat. Zároveň se hledá nový správce webu. Dne 17. listopadu 2020 se bude volit nové předsednictvo místního sdružení, měsíc před volbou bude vypsána rozprava. Po oficiálním programu následovala volná debata.
+
+
+ ## [BUDOUCNOST ŘEŠÍME TEĎ](https://pardubicky.pirati.cz/)✔🌍 
+🔼 krajské volby 2020 
