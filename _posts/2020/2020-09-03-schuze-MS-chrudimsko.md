@@ -31,7 +31,7 @@ Hlavním cílem chrudimských Pirátů je v současné době  prosadit do rozpo
 
 Hlinečtí příznivci Pirátů vysvětlili, jak pracují v zastupitelstvu, kde mají zastoupení. Zároveň požádali o pomoc s tématy, které se týkají životního prostředí a městských vyhlášek. To jim bylo slíbeno a budeme se tím i nadále zabývat.
 
-**MS CHRUDIM**
+**MS CHRUDIMSKO**
 
 V oficiální části schůze se diskutovalo o rozpočtu na příští rok a o PR pracovníkovi, který byl na zkoušku přijat. Zároveň se hledá nový správce webu. Dne 17. listopadu 2020 se bude volit nové předsednictvo místního sdružení, měsíc před volbou bude vypsána rozprava. Po oficiálním programu následovala volná debata.
 
