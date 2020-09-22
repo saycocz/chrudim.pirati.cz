@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: PIRÁTI PODPOŘILI PRVNÍ SKATE A BMX ZÁVODY  NA NOVÉ ARÉNĚ V CHRUDIMI
-date: 2020-06-29T00:00:00+01:00
+date: 2020-069-21T00:00:00+01:00
 tags: 
       - radnice
       - chrudim
