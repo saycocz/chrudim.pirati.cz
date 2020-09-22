@@ -8,7 +8,7 @@ tags:
       - chrudim
       - report
 author: Piráti MS Chrudimsko
-image: assets/img/posts/2020/ales_pavel_doku.jpg #751x422
+image: assets/img/posts/2020/skatechrudim.jpg #751x422
 ---
 
 **Piráti z Pardubického kraje se zúčastnili otevření nového skateparku v Chrudimi. Na přípravě stavby se výrazně podílel také pirátský místostarosta Chrudimi Aleš Nunvář. Akci navštívili pirátští poslanci Tomáš Vymazal, Radek Holomčík a Ivan Bartoš. Proběhla debata s Tomášem Vymazalem o regulaci konopí a psychotropních látek. Piráti akci podpořili finančními odměnami pro závodníky.**
