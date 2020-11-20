@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Koordinátor komunikace pro oblast Chrudimska
-date: 2020-09-21T00:00:00+01:00
+date: 2020-11-15T00:00:00+01:00
 tags: 
       - vyberove-rizeni
       - chrudim
@@ -11,13 +11,13 @@ author: Piráti MS Chrudimsko
 image: assets/img/posts/2020/inzerat.jpg #751x422
 ---
 
-**Pirátská strana v Chrudimi hledá do svého týmu koordinátora pro komunikaci a správu sociálních sítí. Splňujete uvedené požadavky a pohybujete se ve světě PR? Pak se neváhejte přihlásit do našeho výběrového řízení.**
+**Pirátská strana na Chrudimsku hledá do svého týmu koordinátora pro komunikaci a správu sociálních sítí. Splňujete uvedené požadavky a pohybujete se ve světě PR? Pak se neváhejte přihlásit do našeho výběrového řízení.**
 
 **Požadované činnosti:**
 
 - Řízení mediální komunikace chrudimských zastupitelů směrem k veřejnosti a médiím.
 - Udržování a vylepšování PR za pomocí nástrojů permanentní kampaně.
-- Plánování krátkodobých i dlouhodobých strategií komunikační agendy Pirátské strany.
+- Plánování krátkodobých i dlouhodobých strategií komunikační agendy Pirátské strany na Chrudimsku.
 - Správa a naplnění mediaplánu (týká se především webu Piráti Chrudim a facebooku Chrudim, Heřmanův Městec, Hlinsko, Chrast).
 - PR konzultace.
 
