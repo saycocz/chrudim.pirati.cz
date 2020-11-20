@@ -54,9 +54,9 @@ V této části města chybí možnost sportovního vyžití. Daný projekt chce
 
 **První dva projekty postupují do realizace v roce 2021 přímo. O třetím z nich, který se vešel do alokované částky na participativní rozpočet částečně, bude rozhodovat zastupitelstvo města na svém prosincovém jednání.**
 
-![Skatepark](/assets/img/posts/2020/chrudim3.jpg) #751x422
+![PARO PROJEKT1](/assets/img/posts/2020/chrudim3.jpg) #751x422
 
-![Skatepark](/assets/img/posts/2020/chrudim4.jpg) #751x422
+![PARO PROJEKT2](/assets/img/posts/2020/chrudim4.jpg) #751x422
 
 Do příštího roku navrhujeme zvýšit částku pro participativní rozpočet z jednoho na 1,5 milionu korun, ostatní parametry pravidel zůstávají zachované. 
 >“Už nyní tedy můžete promýšlet a připravovat projekty, které byste rádi v našem městě realizovali a o které byste se rádi zasadili. Inspirovat se lze třeba ve městech, kde podobné projekty už léta fungují a škála realizovaných projektů je zde široká. Od veřejných záchodků, přes okénka s občerstvením, dětská hřiště, venkovní tančírny až po odpočinkové prostory, včetně písečných pláží na břehu řek.” 
@@ -65,4 +65,4 @@ uzavírá letošní ročník PaRo Tvořím Chrudim Pavel Štěpánek.
 
 Pro příští rok je plánován podobný harmonogram jako letos. V **březnu bude vyhlášení projektu Tvoříme Chrudim a do června můžete své nápady přihlašovat**. V červenci a srpnu se budou dané projekty posuzovat, v září proběhne veřejné projednávání se zahájením hlasování a v listopadu vše ukončíme a vyhlásíme vítězné nápady. Už nyní se na všechny návrhy a myšlenky moc těšíme.
 
-![Skatepark](/assets/img/posts/2020/chrudim2.jpg) #751x422
+![PARO PROJEKT](/assets/img/posts/2020/chrudim2.jpg) #751x422
