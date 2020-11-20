@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pavel Štěpánek - Participativní rozpočet je formou přímé demokracie v Chrudimi
-date: 2020-11-201T00:00:00+01:00
+date: 2020-11-19T00:00:00+01:00
 tags: 
       - radnice
       - chrudim
