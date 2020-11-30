@@ -115,7 +115,7 @@ Z našeho programu se zatím nepodařilo prosadit osvětovou kampaň a podporu p
 
 V našem snažení nám hodně pomáhají různé neziskové organizace, a proto i my pomáháme jim. Do výpůjčky jsme například poskytli prostor v budově č.p. 29, kde vzniklo krásné a prostorné centrum pro seniory a kde se mohou realizovat prostřednictvím rozmanitých vzdělávacích, volnočasových a dokonce sportovních programů. Významně jsme podpořili také Seniorfest a zavedli další významné projekty pro seniory v režii Zdravého města. Nadále podporujeme aktivity neziskových organizací v oblasti sociální pomoci potřebným a jsme s nimi v aktivním kontaktu. Zasadili jsme se o podporu a rozšíření komunitního plánování sociálních služeb v jejichž rámci vznikla i databáze sociálních služeb s názvem [Spona](https://spona.chrudim-city.cz/).
 
-![Senioři(/assets/img/posts/2020/senior.jpg)
+![Senioři](/assets/img/posts/2020/senior.jpg)
   
 ## Sport a kultura
 
