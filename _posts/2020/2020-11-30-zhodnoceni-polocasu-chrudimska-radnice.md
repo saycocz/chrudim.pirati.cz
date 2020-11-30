@@ -12,7 +12,7 @@ image: assets/img/posts/2020/zhodnoceni.png #751x422
 
 **Před dvěma lety jsme se ujali funkcí ve vedení města bez dosavadních zkušeností ze zastupitelstva i opozičních lavic. To mohlo být slabinou, ale také výhodou. Trvalo několik měsíců, než jsme se do funkcí vžili a osvojili si procesy a strukturu úřadu. Během té doby došlo k určitému “vystřízlivění” a “srážce s realitou”, kdy jsme zjistili, jak je samospráva nepružná, všechno trvá mnohem déle než jsme čekali a některé představy nejsou tak snadno realizovatelné, jak se může na první pohled zdát. Některé naše názory se pak v realitě výkonu funkcí mírně utvářely nebo měnily.**
 
-![PARO PROJEKT](/assets/img/posts/2020/rada.jpg)
+![Rada města](/assets/img/posts/2020/rada.jpg)
 
 Po dvou letech ve vedení města se nám podařilo prosadit několik zásadních programových bodů a další jsou na dobré cestě k blízké realizaci. Jsou i body programu, které se nám prosadit nepodařilo. Mezi příčiny patří výše zmíněná nepružnost obecní samosprávy, krátký časový úsek, kdy máme možnost věci ovlivňovat, finanční limity města, ale i naše počáteční nezkušenost. Ostatně není na světě bezchybného člověka a největší chybou bývá představa vlastní neomylnosti. Nelze opomenout i fakt, že od března letošního roku se potýkáme s dosud bezprecedentní situací, způsobenou pandemií Covid 19 a vyhlášeným nouzovým stavem. Ta měla zásadní vliv na přípravu i průběh některých projektů, ale i na finance, se kterými město hospodaří. Pojďme se nyní podívat na konkrétní oblasti a opatření, které se nám podařilo společně s koalicí prosadit.
 
@@ -47,7 +47,7 @@ V oblasti Smart-city, transparence a otevřenosti to jsou změny jednacích řá
 
 Zřídili jsme městskou aplikaci [Mobilní rozhlas](https://chrudim.mobilnirozhlas.cz/), prostřednictvím které vytváříme dotazníky, informujeme o aktualitách i chystaných projektech města. Občané mohou prostřednictvím této aplikace klást dotazy, podávat podněty nebo upozorňovat na akutní problémy, jako je třeba rozbitá lavička nebo přeplněný odpadkový koš. Není to sice ideální řešení, protože nejde o volně dostupnou aplikaci se svobodným softwarem a již nyní neúspěšně bojujeme o různá rozšíření v oblastech jako je například sdílený kalendář akcí, sdílení aut apod. V neposlední řadě jsme prostřednictvím této aplikace letos uskutečnili první ročník participativního rozpočtu s názvem [Tvořím Chrudim](https://chrudim.pirati.cz/tiskove-zpravy/participativni-rozpocet-chrudim.html), prostřednictvím něhož mohou lidé sami navrhovat a rozhodovat, jaké investiční projekty budou v následujícím roce realizovány.
 
-![PARO PROJEKT](/assets/img/posts/2020/chrudim2.jpg)  
+![Mobilní rozhlas](/assets/img/posts/2020/chrudim2.jpg)  
 
 Daří se postupně rozšiřovat veřejnou síť wi-fi a ve spolupráci s externí agenturou připravujeme koncept chytrého města, který bude strategickým dokumentem v oblasti zavádění moderních technologií ve městě. Už příští rok počítáme s tím, že se nám podaří spustit rozklikávací rozpočet města. Jeho spuštění jsme odsunuli z důvodu přechodu na nový účetní systém. Každý si tak bude moci projít rozpočet města až do poslední faktury.
 
@@ -87,7 +87,7 @@ V rámci činnosti komise hospodářského rozvoje se podařilo zorganizovat prv
 
 I v oblasti územního rozvoje jsou věci, které se prozatím příliš nedaří. Je to především situace ohledně hotelu Bohemia, kde se zdá, že není zájem na dohodě z druhé strany. Bude tedy nutné přistoupit k ráznějším krokům, jako je vypovězení celé smlouvy s případnou soudní dohrou. K soudnímu řízení se nejspíš schyluje i ve věci rozdělení pozemků ve společném vlastnictví na Skřivánku, kde se nedaří dojít k dohodě s novým spoluvlastníkem. Stále se nepodařilo ani vypořádat pozemky pro stavbu cyklostezky na Podhůru, i když se o tom stále jedná.
 
-![PARO PROJEKT](/assets/img/posts/2020/hotel.jpg)  
+![Hotel](/assets/img/posts/2020/hotel.jpg)  
 
 Komplikace se objevují také u plánovaných projektů v oblasti dopravy. Vzhledem k zásadnímu nesouhlasu jednoho z koaličních partnerů se nepodařilo prosadit zavedení stacionárních radarů na měření rychlosti vozidel. Nepodařilo se ani prosadit snížení rychlosti na silnici I/17 mezi Chrudimí a Slatiňany kvůli nesouhlasu Policie ČR. Znovu se o to pokusíme v rámci rekonstrukce tohoto úseku a převodu této silnice na komunikaci druhé třídy po otevření druhé fáze obchvatu. Finanční situace města také nedovoluje ve větší míře realizovat chodníkové přejezdy nebo zvýšené křižovatky, rozšíření cyklostezky podél řeky do Slatiňan, stavbu nové železniční zastávky U Stadionu, či zavádění inteligentního parkování. Zatím se nepodařilo zavést jízdné v MAD pro doprovod dětí zdarma, ale tento boj nevzdáváme a pokusíme se toto prosadit v novém tendru na provozovatele hromadné dopravy, který připravujeme a kde budeme prosazovat ekologičtější alternativní pohony hromadných dopravních prostředků, jako je elektřina nebo vodík.
 
@@ -115,13 +115,13 @@ Z našeho programu se zatím nepodařilo prosadit osvětovou kampaň a podporu p
 
 V našem snažení nám hodně pomáhají různé neziskové organizace, a proto i my pomáháme jim. Do výpůjčky jsme například poskytli prostor v budově č.p. 29, kde vzniklo krásné a prostorné centrum pro seniory a kde se mohou realizovat prostřednictvím rozmanitých vzdělávacích, volnočasových a dokonce sportovních programů. Významně jsme podpořili také Seniorfest a zavedli další významné projekty pro seniory v režii Zdravého města. Nadále podporujeme aktivity neziskových organizací v oblasti sociální pomoci potřebným a jsme s nimi v aktivním kontaktu. Zasadili jsme se o podporu a rozšíření komunitního plánování sociálních služeb v jejichž rámci vznikla i databáze sociálních služeb s názvem [Spona](https://spona.chrudim-city.cz/).
 
-![PARO PROJEKT](/assets/img/posts/2020/senior.jpg)
+![Senioři(/assets/img/posts/2020/senior.jpg)
   
 ## Sport a kultura
 
 Snažíme se udržet dotace na podporu sportu dětí a mládeže a podpořili jsme významně i profesionální sport, pro který jsme zřídili speciální dotační program. V oblasti kultury pozvedáme příspěvkovou organizaci města Chrudimská Beseda, kde došlo k výměně ředitele a která prochází obrodou. Příští rok nás čeká 70. ročník loutkářského festivalu, kterému chceme věnovat velkou pozornost a pomoci získat finanční prostředky i ze soukromých zdrojů. Štědře podporujeme festival klasické hudby Zlatá Pecka a chystáme Festival romské kultury, který by měl podpořit sebevědomí Rómů při uplatnění ve společnosti. Festival pouličního umění stále zůstává pouze hezkou myšlenkou a v současném volebním období se ho už realizovat nepodaří, uvidíme zda se podaří jej uskutečnit v letech příštích. Jako nereálné se ukázalo také plánované odkrývání chrudimských katakomb, které jsme slibovali v našem volebním programu.
 
-![PARO PROJEKT](/assets/img/posts/2020/loutky.jpg)  
+![Festival loutek](/assets/img/posts/2020/loutky.jpg)  
 
 Podpořili jsme i vznik nové základní školy Waldorfského typu. Výrazně jsme posílili prevenci závislostí, šikany a dalších forem rizikového chování prostřednictvím podpory dlouhodobých programů odborných organizací. Velkou radost nám dělá nový vizuální styl města vybraný v profesionálně vedené soutěži. Chrudim tak dostane k letošním Vánocům moderní a originální nádech.
 
