@@ -6,7 +6,7 @@ date: 2020-11-30T00:00:00+01:00
 tags: 
       - radnice
       - chrudim
-author: Piráti MS Chrudimsko
+author: Pavel Štěpánek
 image: assets/img/posts/2020/zhodnoceni.png #751x422
 ---
 
@@ -93,11 +93,11 @@ Komplikace se objevují také u plánovaných projektů v oblasti dopravy. Vzhle
 
   
 
-## Ekologie a odpadové hospodářství
+## Životní prostředí a odpadové hospodářství
 
   
 
-V oblasti ekologie a sociální politiky jsme poměrně úspěšní. Podařilo se nám vysadit velmi vysoké množství stromů a ostatních dřevin a zavádíme o dvě seče trávy ročně více, aby bylo dosaženo správného mulčování. U většiny nových projektů klademe důraz na zadržování dešťové vody a nová parkovací místa stavíme převážně zasakovací. Realizovali jsme první plochu pro volné venčení psů u železniční tratě U Stadionu a druhé místo Na Pumberkách připravujeme.
+V oblasti životního prostředí a sociální politiky jsme poměrně úspěšní. Podařilo se nám vysadit velmi vysoké množství stromů a ostatních dřevin a zavádíme o dvě seče trávy ročně více, aby bylo dosaženo správného mulčování. U většiny nových projektů klademe důraz na zadržování dešťové vody a nová parkovací místa stavíme převážně zasakovací. Realizovali jsme první plochu pro volné venčení psů u železniční tratě U Stadionu a druhé místo Na Pumberkách připravujeme.
 
 ![Stromy](/assets/img/posts/2020/stromy.jpg) 
 
@@ -115,7 +115,7 @@ Z našeho programu se zatím nepodařilo prosadit osvětovou kampaň a podporu p
 
 V našem snažení nám hodně pomáhají různé neziskové organizace, a proto i my pomáháme jim. Do výpůjčky jsme například poskytli prostor v budově č.p. 29, kde vzniklo krásné a prostorné centrum pro seniory a kde se mohou realizovat prostřednictvím rozmanitých vzdělávacích, volnočasových a dokonce sportovních programů. Významně jsme podpořili také Seniorfest a zavedli další významné projekty pro seniory v režii Zdravého města. Nadále podporujeme aktivity neziskových organizací v oblasti sociální pomoci potřebným a jsme s nimi v aktivním kontaktu. Zasadili jsme se o podporu a rozšíření komunitního plánování sociálních služeb v jejichž rámci vznikla i databáze sociálních služeb s názvem [Spona](https://spona.chrudim-city.cz/).
 
-![Senioři(/assets/img/posts/2020/senior.jpg)
+![Senioři](/assets/img/posts/2020/senior.jpg)
   
 ## Sport a kultura
 
@@ -144,4 +144,4 @@ Jsme přesvědčeni o tom, že ve všech výše uvedených oblastech jsme za upl
   
   
 
-Pavel Štěpánek a Piráti Chrudim
+**Pavel Štěpánek**, Aleš Nunvář, Daniel Lebduška, Nikola Štěpánková a Piráti Chrudim
